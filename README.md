@@ -2,7 +2,7 @@
 
 [![Header](https://raw.githubusercontent.com/kbventures/kbventures/master/Banner.png 'Header')]
 
-### Hi there
+# Hi there
 
 <img src="https://raw.githubusercontent.com/kbventures/kbventures/master/wave.gif" width="30px">
 
@@ -12,15 +12,15 @@ My name is Ken Beaudin and I'm a javascript web developer. I'm from Canada, and 
 
 React, Node.js and Test Driven Development using Mocha/Chai.
 
-## - 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 
 Jest for testing React applications.
 
-## - 👯 I’m looking to collaborate on ...
+## 👯 I’m looking to collaborate on ...
 
 Your start up needs help with javascript or testing? I'm interested!
 
-## - 🤔 I’m looking for help with ...
+## 🤔 I’m looking for help with ...
 
 I am looking for work. I can be reached on Twitter or Linkedin. Links above!
 
