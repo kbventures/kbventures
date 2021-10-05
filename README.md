@@ -1,3 +1,7 @@
+<!-- More info, tips and tricks for making GitHub Profile README can be found in this article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7  which I used to create my own Github Profile-->
+
+[![Header](https://raw.githubusercontent.com/kbventures/kbventures/master/Banner.png 'Header')]
+
 ### Hi there 👋
 
 <!--
