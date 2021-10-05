@@ -36,7 +36,7 @@ I am looking for work. I can be reached on Twitter or Linkedin. Links above!
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
