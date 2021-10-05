@@ -38,11 +38,17 @@ I am looking for work. I can be reached on Twitter or Linkedin. Links above!
 
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=mocha&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Test-Chai-informational?style=flat&logo=chai&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/NoSQL-Mongo-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
