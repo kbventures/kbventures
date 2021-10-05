@@ -42,7 +42,7 @@ I am looking for work. I can be reached on Twitter or Linkedin. Links above!
 
 ![](https://img.shields.io/badge/Test-Chai-informational?style=flat&logo=chai&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/NoSQL-Mongo-informational?style=flat&logo=mongo&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/NoSQL-Mongo-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
