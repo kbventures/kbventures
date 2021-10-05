@@ -26,17 +26,23 @@ I am looking for work. I can be reached on Twitter or Linkedin. Links above!
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux_Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_code-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=mocha&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Test-Chai-informational?style=flat&logo=chai&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/NoSQL-Mongo-informational?style=flat&logo=mongo&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
