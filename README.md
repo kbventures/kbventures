@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/kbventures/kbventures/master/wave.gif" width="30px">
 
-My name is Ken Beaudin and I'm a javascript web developer. I'm from Canada, and on the move the last 2 years accross he globe. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3]
+My name is Ken Beaudin and I'm a React / Node.js programmer. I'm from Canada, and on the move the last 2 years accross he globe. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3]
 
 ## 🔭 I’m currently working on ...
 
