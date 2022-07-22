@@ -20,7 +20,7 @@
   </a>
 </p>
 
-Hi, I'm Ken beaudin, 
+<h1>Hi, I'm Ken Beaudin</h1>
 
 Freelance Software engineer, I am motivated by the power of technology as a tool for positive change, with 15 background in banking, customer service & sales.
 
