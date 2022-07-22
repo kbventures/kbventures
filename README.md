@@ -20,6 +20,8 @@
   </a>
 </p>
 
+Hi, I'm Ken beaudin, 
+
 Freelance Software engineer, I am motivated by the power of technology as a tool for positive change, with 15 background in banking, customer service & sales.
 
 See [my website](https://kenbeaudin.netlify.app) for more information!
