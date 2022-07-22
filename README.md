@@ -2,6 +2,9 @@
 
 [![Header](https://raw.githubusercontent.com/kbventures/kbventures/master/Banner.png 'Header')]
 
+<img src="https://i.postimg.cc/g0mDTS0b/main-banner.jpg" width="100%">
+
+
 # Hi there
 
 <img src="https://raw.githubusercontent.com/kbventures/kbventures/master/wave.gif" width="30px">
