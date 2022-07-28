@@ -21,6 +21,7 @@
 </p>
 
 <section align="center">
+    <h3>Codewars</h3>
     <div>
         <img width="400px" src="https://www.codewars.com/users/kb9700/badges/large" alt="Ken Beaudin's Codewars stats">
     </div>
