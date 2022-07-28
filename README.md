@@ -20,6 +20,10 @@
   </a>
 </p>
 
+    <div>
+        <img width="400px" src="https://www.codewars.com/users/kb9700/badges/large" alt="Ken Beaudin's Codewars stats">
+    </div>
+
 <h1>Hi, I'm Ken Beaudin</h1>
 
 Freelance Software engineer, I am motivated by the power of technology as a tool for positive change, with 15 background in banking, customer service & sales.
