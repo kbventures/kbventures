@@ -25,7 +25,8 @@
     </div>
 
 <h1>Hi, I'm Ken Beaudin</h1>
-
+[
+](https://www.codewars.com/users/kb9700/badges/large)
 Freelance Software engineer, I am motivated by the power of technology as a tool for positive change, with 15 background in banking, customer service & sales.
 
 See [my website](https://kenbeaudin.netlify.app) for more information!
