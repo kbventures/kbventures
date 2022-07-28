@@ -21,9 +21,8 @@
 </p>
 
 <section align="center">
-    <h3>Personal stats:</h3>
     <div>
-        <img width="400px" src="https://www.codewars.com/users/khanhtranngoccva/badges/large" alt="khanhtranngoccva's Codewars stats">
+        <img width="400px" src="https://www.codewars.com/users/kb9700/badges/large" alt="Ken Beaudin's Codewars stats">
     </div>
 </section>
 
