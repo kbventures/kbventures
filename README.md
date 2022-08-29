@@ -47,7 +47,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
       <h3 align="center">eRenaissance</h3>
         <br />
         <a target="_blank" href="https://e-renaissance.herokuapp.com/">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+            <img src="images/gif1.gif" width="100%" alt="eCommerce App"/>
         </a>
         <br />
         <p align="center">
@@ -62,22 +62,22 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
         <p><strong>HTML, CSS, CSS Modules, React, Exprss.js, Node.js, MongoDB, Webpack,TypeScript, Git, CIDC Gitub Actions & Jest</strong> - eRenaissance is a custom built state of the art ecommerce website with Stripe intergratin!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">eRenaissance</h3>
+      <h3 align="center">tweetAssist</h3>
         <br />
-        <a target="_blank" href="https://e-renaissance.herokuapp.com/">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+        <a target="_blank" href="">
+            <img src="images/gif1.gif" width="100%" alt="Twitter Assitance App"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/kbventures/ecommerce" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://e-renaissance.herokuapp.com/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, CSS Modules, React, Exprss.js, Node.js, MongoDB, Webpack,TypeScript, Git, CIDC Gitub Actions & Jest</strong> - eRenaissance is a custom built state of the art ecommerce website with Stripe intergratin!</p>
+        <p><strong>HTML, CSS, Node.js,Express.js, MongoDB, Mongoose, Git, Heroku, Mocha, Jest & JWT Token</strong> - eRenaissance is a custom built state of the art ecommerce website with Stripe intergratin!</p>
     </td>
   </tr>
   
