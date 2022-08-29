@@ -83,7 +83,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">kenbeaudin.netlify.app/</h3>
+      <h3 align="center">kenbeaudin.netlify.app</h3>
       <br />
         <a target="_blank" href="https://kenbeaudin.netlify.app/">
           <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
