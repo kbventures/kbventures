@@ -101,23 +101,40 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
     </td>
   </tr>
   <tr>
+       <td width="50%" valign="top">
+      <h3 align="center">kenbeaudin.netlify.app</h3>
+      <br />
+        <a target="_blank" href="https://kenbeaudin.netlify.app/">
+          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/kbventures/webpack-portfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://kenbeaudin.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, Javascript, Node.js, NPM, Webpack, Git & Netlify</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
     <td width="50%" valign="top">
-      <h3 align="center">eRenaissance</h3>
+      <h3 align="center">AfterWerk</h3>
         <br />
-        <a target="_blank" href="https://e-renaissance.herokuapp.com/">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+        <a target="_blank" href="https://afterwerk.netlify.app/">
+          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/kbventures/ecommerce" target="_blank">
+  <a href="https://github.com/kbventures/afterwerk-toronto" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://e-renaissance.herokuapp.com/" target="_blank">
+  </a>
+  <a href="https://afterwerk.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, CSS Modules, React, Exprss.js, Node.js, MongoDB, Webpack,TypeScript, Git, CIDC Gitub Actions & Jest</strong> - eRenaissance is a custom built state of the art ecommerce website with Stripe intergratin!</p>
+        <p><strong>HTML, CSS, SASS, Node.js, NPM, Git & Netlify</strong> - After Werk is a lifestyle brand dedicated to being your best outside work. We enable connecting with others through fun events, practissing self-care with help from products in our online store.</p>
     </td>
   </tr>
 </table>
