@@ -100,7 +100,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
         <p><strong>HTML5, CSS3, Javascript, Node.js, NPM, Webpack, Git & Netlify</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">AfterWerk</h3>
         <br />
         <a target="_blank" href="https://afterwerk.netlify.app/">
           <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
