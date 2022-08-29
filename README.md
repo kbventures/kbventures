@@ -43,7 +43,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
 
 
 
-//
+
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
@@ -145,7 +145,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
   </tr>
 </table>
 
-//
+
 
 
 
