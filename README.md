@@ -121,7 +121,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
        <td width="50%" valign="top">
       <h3 align="center">Prognose</h3>
       <br />
-        <a target="_blank" href="https://prognose.ca/">
+        <a target="_blank" href="https://competent-wright-5e4a22.netlify.app/">
           <img src="images/prognose_logo.png" height="190px" alt="Portfolio"/>
         </a>
       <br />
@@ -129,7 +129,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
   <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://prognose.ca/" target="_blank">
+  <a href="https://competent-wright-5e4a22.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
