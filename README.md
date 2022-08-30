@@ -64,7 +64,9 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
       <h3 align="center">tweetAssist</h3>
         <br />
         <a target="_blank" href="">
+            <p align="center">
             <img src="images/under-construction.png" height="190px" alt="Twitter Assitance App"/>
+            </p>
         </a>
         <br />
         <p align="center">
