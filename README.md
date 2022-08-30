@@ -25,13 +25,11 @@
     </div>
 </section>
 
-<h1>Hi, I'm Ken Beaudin</h1>
+<h1>I love creating web solutions</h1>
 
-I love finding solutions
+A business professional with 15+ years of experience implementing solutions for hundreds of clients and business partners as a Business Consultant and Certified Financial Planner. Frequently searching for improvements, I strive to optimize client experiences with elegant solutions
 
-Formerly a business consultant and certified financial planner with 15 years of experience, I am always looking for ways to improve user experience with elegant solutions. Throughout my career, I was always good at initiating, coordinating, and executing technical concepts.
-
-Helping others grow is a passion of mine, and I strive to solve problems with the best solution every time.
+I'm Ken Beaudin and I am from Canada. As a software engineer, developing elegant solutions while elevating others is what I do. Helping others grow is a passion of mine, and I strive to solve problems with the best solution every time.
 
 Let's connect and grow together!
 See [my website](https://kenbeaudin.netlify.app) for more information!
