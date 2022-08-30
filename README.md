@@ -43,7 +43,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
     <td width="50%" valign="top">
       <h3 align="center">eRenaissance</h3>
         <br />
-        <a target="_blank" href="https://e-renaissance.herokuapp.com/">
+        <a target="_blank" align="center" href="https://e-renaissance.herokuapp.com/">
             <img align="center" src="images/ecommerce.png" height="190px" alt="eCommerce App"/>
         </a>
         <br />
@@ -62,7 +62,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
       <h3 align="center">tweetAssist</h3>
         <br />
         <a target="_blank" href="">
-            <img src="images/under-construction.png" height="190px" alt="Twitter Assitance App"/>
+            <img align="center" src="images/under-construction.png" height="190px" alt="Twitter Assitance App"/>
         </a>
         <br />
         <p align="center">
