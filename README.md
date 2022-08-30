@@ -1,7 +1,5 @@
 <img src="https://i.postimg.cc/g0mDTS0b/main-banner.jpg" width="100%">
 
-
-
 <p align="center">
   <a href="https://kenbeaudin.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
@@ -29,7 +27,6 @@
 
 <h1>Hi, I'm Ken Beaudin</h1>
 
-
 I love finding solutions
 
 Formerly a business consultant and certified financial planner with 15 years of experience, I am always looking for ways to improve user experience with elegant solutions. Throughout my career, I was always good at initiating, coordinating, and executing technical concepts.
@@ -39,11 +36,6 @@ Helping others grow is a passion of mine, and I strive to solve problems with th
 Let's connect and grow together!
 See [my website](https://kenbeaudin.netlify.app) for more information!
 
-
-
-
-
-
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
@@ -52,7 +44,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
       <h3 align="center">eRenaissance</h3>
         <br />
         <a target="_blank" href="https://e-renaissance.herokuapp.com/">
-            <img src="images/gif1.gif" width="100%" alt="eCommerce App"/>
+            <img src="images/ecommerce.png" height="190px" alt="eCommerce App"/>
         </a>
         <br />
         <p align="center">
@@ -70,7 +62,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
       <h3 align="center">tweetAssist</h3>
         <br />
         <a target="_blank" href="">
-            <img src="images/gif1.gif" width="100%" alt="Twitter Assitance App"/>
+            <img src="images/under-construction.png" height="190px" alt="Twitter Assitance App"/>
         </a>
         <br />
         <p align="center">
@@ -91,7 +83,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
       <h3 align="center">kenbeaudin.netlify.app</h3>
       <br />
         <a target="_blank" href="https://kenbeaudin.netlify.app/">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="images/ken-beaudin-banner.png" height="190px" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -108,7 +100,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
       <h3 align="center">AfterWerk</h3>
         <br />
         <a target="_blank" href="https://afterwerk.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+          <img src="images/AfterWerk Logo - Colours RGB.webp" height="190px" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
@@ -128,7 +120,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
       <h3 align="center">Prognose</h3>
       <br />
         <a target="_blank" href="https://prognose.ca/">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="images/prognose_logo.png" height="190px" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -145,12 +137,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
   </tr>
 </table>
 
-
-
-
-
 <h1 align="center">Technologies</h1>
-
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
@@ -173,14 +160,9 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=MOCHA&color=cbb148&style=plastic&logo=mocha"/>
 </p>
 
-
-
 ---
 
-
 <h1 align="center">Connect</h1>
-
-
 
 <p align="center">
   <a href="https://kenbeaudin.netlify.app" target="_blank">
@@ -199,11 +181,6 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
-
-
-
-
-
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
