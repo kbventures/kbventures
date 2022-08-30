@@ -44,7 +44,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
       <h3 align="center">eRenaissance</h3>
         <br />
         <a target="_blank" href="https://e-renaissance.herokuapp.com/">
-            <img src="images/ecommerce.png" height="190px" alt="eCommerce App"/>
+            <img align="center" src="images/ecommerce.png" height="190px" alt="eCommerce App"/>
         </a>
         <br />
         <p align="center">
