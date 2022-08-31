@@ -126,7 +126,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
         </a>
       <br />
         <p align="center">
-  <a href="" target="_blank">
+  <a href="https://github.com/kbventures/prognose" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://competent-wright-5e4a22.netlify.app/" target="_blank">
