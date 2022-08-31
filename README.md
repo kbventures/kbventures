@@ -1,4 +1,4 @@
-<img src="https://postimg.cc/30kQN9Xn" width="100%">
+<img src="https://i.postimg.cc/SRrSZvJF/Frame-1.jpg" width="100%">
 
 <p align="center">
   <a href="https://kenbeaudin.netlify.app/" target="_blank">
