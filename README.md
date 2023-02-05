@@ -41,9 +41,9 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
     <td width="50%" valign="top">
       <h3 align="center">eRenaissance</h3>
         <br />
-        <a target="_blank" href="https://e-renaissance.herokuapp.com/">
+        <a target="_blank" href="https://erenaissance-frontend.vercel.app/">
         <p align="center">
-            <img align="center" src="images/ecommerce.png" height="190px" alt="eCommerce App"/>
+            <img align="center" src="images/e-renaissance-logo.png" height="190px" alt="eCommerce App"/>
         </p>
         </a>
         <br />
