@@ -76,7 +76,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, SASS, React, Node.js, Express.js, MongoDB, Mongoose, Git, Github Projects, Vercel, CDIC, Jest & JWT Token</strong> - mTrade is Mindful analysis or your personal trade and chart price history, login & signup and Binance API intergration!!</p>
+        <p><strong>HTML, CSS, SASS, React, Node.js, Express.js, MongoDB, Mongoose, Git, Github Projects, Vercel, CDIC, Jest & JWT Token</strong> - mTrade is Mindful analysis or your personal trade and chart price history and Binance API intergration!!</p>
     </td>
   </tr>
   
