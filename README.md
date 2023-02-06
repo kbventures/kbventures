@@ -59,9 +59,9 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
         <p><strong>HTML, CSS, CSS Modules, React, Express.js, Node.js, MongoDB, Webpack, TypeScript, Vercel, Git, CIDC, Gitub Actions & Jest</strong> - eRenaissance is a custom built state of the art ecommerce website with Stripe intergration!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">tweetAssist</h3>
+      <h3 align="center">mTrade</h3>
         <br />
-        <a target="_blank" href="">
+        <a target="_blank" href="https://calm-rose-bison-veil.cyclic.app/">
             <p align="center">
             <img src="images/under-construction.png" height="190px" alt="mTrade Web Application"/>
             </p>
@@ -69,7 +69,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
         <br />
         <p align="center">
           
-  <a href="" target="_blank">
+  <a href="https://calm-rose-bison-veil.cyclic.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="" target="_blank">
