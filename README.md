@@ -50,10 +50,10 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
         <p align="center">
           
   <a href="https://github.com/kbventures/ecommerce" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://erenaissance-frontend.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML, CSS, CSS Modules, React, Express.js, Node.js, MongoDB, Webpack, TypeScript, Vercel, Git, CIDC, Gitub Actions & Jest</strong> - eRenaissance is a custom built state of the art ecommerce website with Stripe intergration!</p>
@@ -70,10 +70,10 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
         <p align="center">
           
   <a href="https://github.com/kbventures/sunTzuTrade-frontend" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://calm-rose-bison-veil.cyclic.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML, CSS, SASS, React, Node.js, Express.js, MongoDB, Mongoose, Git, Github Projects, Vercel, CDIC, Jest & JWT Token</strong> - mTrade is Mindful analysis or your personal trade and chart price history and Binance API intergration!!</p>
@@ -90,7 +90,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
       <br />
         <p align="center">
   <a href="https://github.com/kbventures/webpack-portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://kenbeaudin.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
