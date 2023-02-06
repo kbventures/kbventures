@@ -63,7 +63,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
         <br />
         <a target="_blank" href="">
             <p align="center">
-            <img src="images/under-construction.png" height="190px" alt="Twitter Assitance App"/>
+            <img src="images/under-construction.png" height="190px" alt="mTrade Web Application"/>
             </p>
         </a>
         <br />
@@ -76,7 +76,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, Node.js,Express.js, MongoDB, Mongoose, Git, Heroku, Mocha, Jest & JWT Token</strong> - tweetAssist is a web application for  automating tweets and conducting engagement analysis easily and securly!</p>
+        <p><strong>HTML, CSS, SASS, React, Node.js, Express.js, MongoDB, Mongoose, Git, Github Projects, Vercel, CDIC, Jest & JWT Token</strong> - mTrade is Mindful analysis or your personal trade and chart price history, login & signup and Binance API intergration!!</p>
     </td>
   </tr>
   
