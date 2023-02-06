@@ -73,7 +73,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://calm-rose-bison-veil.cyclic.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML, CSS, SASS, React, Node.js, Express.js, MongoDB, Mongoose, Git, Github Projects, Vercel, CDIC, Jest & JWT Token</strong> - mTrade is Mindful analysis or your personal trade and chart price history and Binance API intergration!!</p>
@@ -93,7 +93,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://kenbeaudin.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, Javascript, Node.js, NPM, Webpack, Git & Netlify</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
@@ -108,10 +108,10 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
         <p align="center">
           
   <a href="https://github.com/kbventures/afterwerk-toronto" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://afterwerk.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML, CSS, SASS, Node.js, NPM, Git & Netlify</strong> - After Werk is a lifestyle brand dedicated to being your best outside work. We enable connecting with others through fun events, practissing self-care with help from products in our online store.</p>
@@ -127,10 +127,10 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
       <br />
         <p align="center">
   <a href="https://github.com/kbventures/prognose" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://competent-wright-5e4a22.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML, CSS, SASS, JavasSript, Gulp, Node.js, NPM, PHP, Git, cPanel, Google Cloud</strong> - Specializes in consulting and deploying budget control solutions, costing and analyzing the profitability of your products, customers and processes.</p>
