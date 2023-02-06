@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://kenbeaudin.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=Portfolio Website&color=23555f&style=plastic&logo=&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO WEBSITE&color=23555f&style=plastic&logo=&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ken-beaudin-9a4061174/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
@@ -18,12 +18,12 @@
   </a>
 </p>
 
-<section align="center">
+<!-- <section align="center">
     <h3>Codewars</h3>
     <div>
         <img width="400px" src="https://www.codewars.com/users/kb9700/badges/large" alt="Ken Beaudin's Codewars stats">
     </div>
-</section>
+</section> -->
 
 <h1>I love creating web solutions</h1>
 
