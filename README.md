@@ -13,7 +13,7 @@
   <a href="https://angel.co/u/ken-mathieu-beaudin" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/17k-QWg1oKuCuAsDO9NeshJge54JgVpya/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1_SUV3iaYqxHsQWfFLXvUFrdtUSIOLR66/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
