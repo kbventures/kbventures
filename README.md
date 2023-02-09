@@ -150,7 +150,7 @@ showcasing the content they create and their projects in one place.</p>
         <br />
         <p align="center">
           
-  <a href="https://github.com/kbventures/afterwerk-toronto" target="_blank">
+  <a href="https://github.com/kbventures/JECC-Arte" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://jeccarte.com" target="_blank">
