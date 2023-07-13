@@ -38,6 +38,26 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
 <table bordercolor="#66b2b2">
   
   <tr>
+   <td width="50%" valign="top">
+      <h3 align="center">mTrade</h3>
+        <br />
+        <a target="_blank" href="https://next-mtrade.vercel.app/">
+            <p align="center">
+            <img src="images/logo_img.png" height="190px" alt="mTrade Web Application"/>
+            </p>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/kbventures/next-mtrade" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://next-mtrade.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, SASS, Next.jsReact, Node.js, PostgreSQL, Next-i18next, Next-auth, Git, Vercel & Prisma</strong> - mTrade is Mindful analysis or your personal trade and chart price history </p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">eRenaissance</h3>
         <br />
@@ -57,26 +77,6 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
   </a>
       </p>
         <p><strong>HTML, CSS, CSS Modules, React, Webpack, Node.js, Webpack, MongoDB, TypeScript, Vercel & Git</strong> - eRenaissance is a custom built state of the art ecommerce website with Stripe intergration!</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">mTrade</h3>
-        <br />
-        <a target="_blank" href="https://next-mtrade.vercel.app/">
-            <p align="center">
-            <img src="images/logo_img.png" height="190px" alt="mTrade Web Application"/>
-            </p>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/kbventures/next-mtrade" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://next-mtrade.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML, CSS, SASS, Next.jsReact, Node.js, PostgreSQL, Next-i18next, Next-auth, Git, Vercel & Prisma</strong> - mTrade is Mindful analysis or your personal trade and chart price history </p>
     </td>
   </tr>
   
