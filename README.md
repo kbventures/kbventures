@@ -56,7 +56,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, CSS Modules, SASS, Next.js, React,  Node.js, Postgresql, TypeScript, Vercel, Git,Gitub, Next-i18nexts & Prisma</strong> - eRenaissance is a custom built state of the art ecommerce website with Stripe intergration!</p>
+        <p><strong>HTML, CSS, CSS Modules, React, Webpack, Node.js, Webpack, MongoDB, TypeScript, Vercel & Git</strong> - eRenaissance is a custom built state of the art ecommerce website with Stripe intergration!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">mTrade</h3>
@@ -76,7 +76,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, SASS, React, Node.js, Express.js, MongoDB, Mongoose, Git, Github Projects, Vercel, CDIC, Jest & JWT Token</strong> - mTrade is Mindful analysis or your personal trade and chart price history and Binance API intergration!!</p>
+        <p><strong>HTML, CSS, SASS, Next.jsReact, Node.js, PostgreSQL, Next-i18next, Next-auth, Git, Vercel & Prisma</strong> - mTrade is Mindful analysis or your personal trade and chart price history </p>
     </td>
   </tr>
   
