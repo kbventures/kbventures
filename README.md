@@ -56,7 +56,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, CSS Modules, React, Express.js, Node.js, MongoDB, Webpack, TypeScript, Vercel, Git, CIDC, Gitub Actions & Jest</strong> - eRenaissance is a custom built state of the art ecommerce website with Stripe intergration!</p>
+        <p><strong>HTML, CSS, CSS Modules, SASS, Next.js, React,  Node.js, Postgresql, TypeScript, Vercel, Git,Gitub, Next-i18nexts & Prisma</strong> - eRenaissance is a custom built state of the art ecommerce website with Stripe intergration!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">mTrade</h3>
