@@ -61,7 +61,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
     <td width="50%" valign="top">
       <h3 align="center">mTrade</h3>
         <br />
-        <a target="_blank" href="https://calm-rose-bison-veil.cyclic.app/">
+        <a target="_blank" href="https://vercel.com/kbventures/next-mtrade">
             <p align="center">
             <img src="images/under-construction.png" height="190px" alt="mTrade Web Application"/>
             </p>
@@ -69,10 +69,10 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/kbventures/sunTzuTrade-frontend" target="_blank">
+  <a href="https://github.com/kbventures/mtrade-frontend" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://calm-rose-bison-veil.cyclic.app/" target="_blank">
+  <a href="https://vercel.com/kbventures/next-mtrade" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=&logo-color=white"/>
   </a>
       </p>
