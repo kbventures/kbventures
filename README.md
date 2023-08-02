@@ -63,7 +63,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
         <br />
         <a target="_blank" href="https://next-mtrade.vercel.app/">
             <p align="center">
-            <img src="images/under-construction.png" height="190px" alt="mTrade Web Application"/>
+            <img src="images/logo_img.png" height="190px" alt="mTrade Web Application"/>
             </p>
         </a>
         <br />
