@@ -28,7 +28,49 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
 
 <br/>
 
-<h1 align="center" style="padding-top:64px">Open Source & Personal Projects</h1>
+<h1 align="center" style="padding-top:64px">Personal Projects</h1>
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">mTrade</h3>
+        <br />
+        <a target="_blank" href="https://next-mtrade.vercel.app/">
+            <p align="center">
+            <img src="images/logo_img.png" height="190px" alt="mTrade Web Application"/>
+            </p>
+        </a>
+        <br />
+        <p align="center">    
+  <a href="https://github.com/kbventures/next-mtrade" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://next-mtrade.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, SASS, Next.js, React, Node.js, PostgreSQL, Next-i18next, Next-auth, Git, Github, Playwright, Vercel, Superbase & Prisma</strong> - mTrade is Mindful analysis or your personal trade and chart price history </p>
+    </td>
+  <td width="50%" valign="top">
+      <h3 align="center">Ken Beaudin</h3>
+      <br />
+        <a target="_blank" href="https://kenbeaudin.netlify.app/">
+          <img src="images/ken-beaudin-banner.png" height="190px" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/kbventures/webpack-portfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://kenbeaudin.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, Javascript, Node.js, NPM, Webpack, Git & Netlify</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+  </tr>
+</table>
+<!-- OPEN SOURCE CONTRIBUTION -->
+<h1 align="center" style="padding-top:64px">Open Source Contributions</h1>
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
@@ -57,65 +99,6 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
       </p>
         <p><strong>HTML, CSS, Next.js, React, Node.js, MongoDB, Docker, Tailwind, Git, Github</strong> - Open source contributor to Biodrop an open-source project to connect users to their audience with a single link
 showcasing the content they create and their projects in one place.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">mTrade</h3>
-        <br />
-        <a target="_blank" href="https://next-mtrade.vercel.app/">
-            <p align="center">
-            <img src="images/logo_img.png" height="190px" alt="mTrade Web Application"/>
-            </p>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/kbventures/next-mtrade" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://next-mtrade.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML, CSS, SASS, Next.js, React, Node.js, PostgreSQL, Next-i18next, Next-auth, Git, Github, Playwright, Vercel, Superbase & Prisma</strong> - mTrade is Mindful analysis or your personal trade and chart price history </p>
-    </td>
-  </tr>
-  <tr>
-   <td width="50%" valign="top">
-      <h3 align="center">eRenaissance</h3>
-        <br />
-        <a target="_blank" href="https://erenaissance-frontend.vercel.app/">
-        <p align="center">
-            <img align="center" src="images/e-renaissance-logo.png" height="190px" alt="eCommerce App"/>
-        </p>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/kbventures/ecommerce" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://erenaissance-frontend.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML, CSS, CSS Modules, React, Webpack, Node.js, Webpack, MongoDB, TypeScript, Vercel & Git</strong> - eRenaissance is a custom-built state-of-the-art e-commerce website with Stripe integration built by over four developers!</p>
-    </td>
-  <td width="50%" valign="top">
-      <h3 align="center">Ken Beaudin</h3>
-      <br />
-        <a target="_blank" href="https://kenbeaudin.netlify.app/">
-          <img src="images/ken-beaudin-banner.png" height="190px" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/kbventures/webpack-portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://kenbeaudin.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, Javascript, Node.js, NPM, Webpack, Git & Netlify</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
   </tr>
 </table>
@@ -196,6 +179,32 @@ showcasing the content they create and their projects in one place.</p>
   </a>
       </p>
         <p><strong>HTML, CSS, SASS, JavasSript, Gulp, Node.js, NPM, PHP, Git, cPanel, Google Cloud</strong> - Specializes in consulting and deploying budget control solutions, costing and analyzing the profitability of your products, customers and processes.</p>
+    </td>
+  </tr>
+</table>
+<!-- TEAM PROJECT -->
+
+<h1 align="center" style="padding-top:64px">Team Project</h1>
+<table bordercolor="#66b2b2">
+  <tr>
+   <td width="50%" valign="top">
+      <h3 align="center">eRenaissance</h3>
+        <br />
+        <a target="_blank" href="https://erenaissance-frontend.vercel.app/">
+        <p align="center">
+            <img align="center" src="images/e-renaissance-logo.png" height="190px" alt="eCommerce App"/>
+        </p>
+        </a>
+        <br />
+        <p align="center">    
+  <a href="https://github.com/kbventures/ecommerce" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://erenaissance-frontend.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, CSS Modules, React, Webpack, Node.js, Webpack, MongoDB, TypeScript, Vercel & Git</strong> - eRenaissance is a custom-built state-of-the-art e-commerce website with Stripe integration built by over four developers!</p>
     </td>
   </tr>
 </table>
