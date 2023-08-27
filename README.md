@@ -27,18 +27,45 @@
 
 <h1>I love creating web solutions</h1>
 
-A business professional with 15+ years of experience implementing solutions for hundreds of clients and business partners as a Business Consultant and Certified Financial Planner. Frequently searching for improvements, I strive to optimize client experiences with elegant solutions
+A business professional with 15+ years of experience implementing solutions for hundreds of clients and business partners as a business & banking Consultant and certified financial planner. 
 
-I'm Ken Beaudin and I am from Canada. As a software engineer, developing elegant solutions while elevating others is what I do. Helping others grow is a passion of mine, and I strive to solve problems with the best solution every time.
+I'm Ken Beaudin and I am from Canada. As a software engineer, developing elegant solutions while elevating others is what I do. Helping others and communities grow is a passion of mine.
 
 Let's connect and grow together!
+
 See [my website](https://kenbeaudin.netlify.app) for more information!
 
-<h1 align="center">Projects</h1>
+<h1 align="center">Open Source & Personal Projects</h1>
 <table bordercolor="#66b2b2">
-  
   <tr>
-   <td width="50%" valign="top">
+    <td width="50%" valign="top">
+      <h3 align="center">Biodrop</h3>
+        <br />
+        <a target="_blank" href="https://www.biodrop.io/">
+        <p align="center">
+            <img align="center" src="images/biodrop.png" height="190px" alt="eCommerce App"/>
+        </p>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/EddieHubCommunity/BioDrop" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://www.biodrop.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
+  </a>
+    <a href="https://github.com/EddieHubCommunity/BioDrop/pulls/kbventures" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=PULL REQUESTS&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+    <a href="https://github.com/EddieHubCommunity/BioDrop/issues/created_by/kbventures" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=ISSUES&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+      </p>
+        <p><strong>HTML, CSS, Next.js, React, Node.js, MongoDB, Docker, Tailwind, Git, Github</strong> - Open source contributor to Biodrop an open-source project to connect users to their audience with a single link
+showcasing the content they create and their projects in one place.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">mTrade</h3>
         <br />
         <a target="_blank" href="https://next-mtrade.vercel.app/">
@@ -56,9 +83,11 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, SASS, Next.jsReact, Node.js, PostgreSQL, Next-i18next, Next-auth, Git, Vercel & Prisma</strong> - mTrade is Mindful analysis or your personal trade and chart price history </p>
+        <p><strong>HTML, CSS, SASS, Next.js, React, Node.js, PostgreSQL, Next-i18next, Next-auth, Git, Github, Playwright, Vercel, Superbase & Prisma</strong> - mTrade is Mindful analysis or your personal trade and chart price history </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+   <td width="50%" valign="top">
       <h3 align="center">eRenaissance</h3>
         <br />
         <a target="_blank" href="https://erenaissance-frontend.vercel.app/">
@@ -78,11 +107,8 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
       </p>
         <p><strong>HTML, CSS, CSS Modules, React, Webpack, Node.js, Webpack, MongoDB, TypeScript, Vercel & Git</strong> - eRenaissance is a custom built state of the art ecommerce website with Stripe intergration!</p>
     </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">kenbeaudin.netlify.app</h3>
+  <td width="50%" valign="top">
+      <h3 align="center">Ken Beaudin</h3>
       <br />
         <a target="_blank" href="https://kenbeaudin.netlify.app/">
           <img src="images/ken-beaudin-banner.png" height="190px" alt="Portfolio"/>
@@ -98,6 +124,50 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
       </p>
         <p><strong>HTML5, CSS3, Javascript, Node.js, NPM, Webpack, Git & Netlify</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
+  </tr>
+</table>
+<!-- Freelance -->
+<h1 align="center">Freelance Projects</h1>
+<table bordercolor="#66b2b2"> 
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Robert Tercek</h3>
+        <br />
+        <a target="_blank" href="https://roberttercek.com/">
+          <img src="images/robert-tercek.PNG" height="190px" alt="Matching Cards"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/kbventures/afterwerk-toronto" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://roberttercek.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, Next.js, Node.js, NPM, Git, Github & Strapi</strong> - Robert Tercek is one of the world’s most prolific creators of interactive content. He has created breakthrough entertainment experiences on every digital platform. I collaborated with a team of developers to convert the website's API from a Wordpress GraphQL setup to a Strapi backend.</p>
+    </td>
+     <td width="50%" valign="top">
+      <h3 align="center">JECC Arte</h3>
+        <br />
+        <a target="_blank" href="https://jeccarte.com">
+          <img width="100%" src="images/DSC09978.jpeg" height="190px" alt="Matching Cards"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/kbventures/afterwerk-toronto" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://jeccarte.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, Javascript, Git, Github, PHP, cPanel & Webflow</strong> - JECC Arte is a business specialising in art and photography.</p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">AfterWerk</h3>
         <br />
@@ -116,9 +186,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
       </p>
         <p><strong>HTML, CSS, SASS, Node.js, NPM, Git & Netlify</strong> - After Werk is a lifestyle brand dedicated to being your best outside work. We enable connecting with others through fun events, practissing self-care with help from products in our online store.</p>
     </td>
-  </tr>
-  <tr>
-       <td width="50%" valign="top">
+     <td width="50%" valign="top">
       <h3 align="center">Prognose</h3>
       <br />
         <a target="_blank" href="https://competent-wright-5e4a22.netlify.app/">
@@ -135,7 +203,6 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
       </p>
         <p><strong>HTML, CSS, SASS, JavasSript, Gulp, Node.js, NPM, PHP, Git, cPanel, Google Cloud</strong> - Specializes in consulting and deploying budget control solutions, costing and analyzing the profitability of your products, customers and processes.</p>
     </td>
-
   </tr>
 </table>
 
