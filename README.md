@@ -18,14 +18,7 @@
   </a>
 </p>
 
-<!-- <section align="center">
-    <h3>Codewars</h3>
-    <div>
-        <img width="400px" src="https://www.codewars.com/users/kb9700/badges/large" alt="Ken Beaudin's Codewars stats">
-    </div>
-</section> -->
-
-<h1>I love creating web solutions</h1>
+<h1 style="padding-top:64px">Building communities and projects!</h1>
 
 A business professional with 15+ years of experience implementing solutions for hundreds of clients and business partners as a business & banking Consultant and certified financial planner. 
 
@@ -35,7 +28,7 @@ Let's connect and grow together!
 
 See [my website](https://kenbeaudin.netlify.app) for more information!
 
-<h1 align="center">Open Source & Personal Projects</h1>
+<h1 align="center" style="padding-top:64px">Open Source & Personal Projects</h1>
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
@@ -105,7 +98,7 @@ showcasing the content they create and their projects in one place.</p>
     <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, CSS Modules, React, Webpack, Node.js, Webpack, MongoDB, TypeScript, Vercel & Git</strong> - eRenaissance is a custom built state of the art ecommerce website with Stripe intergration!</p>
+        <p><strong>HTML, CSS, CSS Modules, React, Webpack, Node.js, Webpack, MongoDB, TypeScript, Vercel & Git</strong> - eRenaissance is a custom-built state-of-the-art e-commerce website with Stripe integration built by over four developers!</p>
     </td>
   <td width="50%" valign="top">
       <h3 align="center">Ken Beaudin</h3>
@@ -127,7 +120,7 @@ showcasing the content they create and their projects in one place.</p>
   </tr>
 </table>
 <!-- Freelance -->
-<h1 align="center">Freelance Projects</h1>
+<h1 align="center" style="padding-top:64px">Freelance Projects</h1>
 <table bordercolor="#66b2b2"> 
   <tr>
     <td width="50%" valign="top">
@@ -206,7 +199,7 @@ showcasing the content they create and their projects in one place.</p>
   </tr>
 </table>
 
-<h1 align="center">Technologies</h1>
+<h1 align="center" style="padding-top:64px">Technologies</h1>
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
@@ -231,7 +224,14 @@ showcasing the content they create and their projects in one place.</p>
 
 ---
 
-<h1 align="center">Connect</h1>
+<section align="center" style="padding-top:64px">
+    <h1>Codewars</h1>
+    <div>
+        <img width="400px" src="https://www.codewars.com/users/kb9700/badges/large" alt="Ken Beaudin's Codewars stats">
+    </div>
+</section>
+
+<h1 align="center" style="padding-top:64px">Connect</h1>
 
 <p align="center">
   <a href="https://kenbeaudin.netlify.app" target="_blank">
@@ -244,7 +244,7 @@ showcasing the content they create and their projects in one place.</p>
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://angel.co/u/ken-mathieu-beaudin" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=WELLFOUND&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
   <a href="https://docs.google.com/document/d/1FE8GlYo_tdFu66k8DwdRcIrIpWzCXS6nJOMbGMMaXoE/edit?usp=sharing" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
