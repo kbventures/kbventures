@@ -1,6 +1,6 @@
 <img src="https://i.postimg.cc/pXzTKXv8/ken-beaudin-hero-banner-2.jpg" width="100%">
 
-<p align="center" style="text-decoration:none">
+<div align="center" style="text-decoration:none">
   <a href="https://kenbeaudin.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO WEBSITE&color=23555f&style=plastic&logo=&logo-color=white"/>
   </a>
@@ -16,7 +16,7 @@
   <a href="https://docs.google.com/document/d/1xsEzSvgUciC6Ogbx-zMEpy3of7SVXqV09zAal_e4I_M/edit?usp=sharing" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-</p>
+</div>
 
 <h1 style="padding-top:64px">Building communities and projects!</h1>
 
