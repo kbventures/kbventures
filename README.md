@@ -1,10 +1,16 @@
 <img src="https://i.postimg.cc/pXzTKXv8/ken-beaudin-hero-banner-2.jpg" width="100%">
 
-  [Portfolio Website](https://kenbeaudin.netlify.app/)
-  [LinkedIn](https://www.linkedin.com/in/ken-beaudin-9a4061174/)
-  [Twitter](https://twitter.com/kb9700)
-  [AngelList](https://angel.co/u/ken-mathieu-beaudin)
-  [Resume](https://docs.google.com/document/d/1xsEzSvgUciC6Ogbx-zMEpy3of7SVXqV09zAal_e4I_M/edit?usp=sharing)
+  <p align="center">
+    <a href="https://kenbeaudin.netlify.app"><strong>Portfolio Website</strong></a>
+    ·
+    <a href="https://www.linkedin.com/in/ken-beaudin-9a4061174/"><strong>Linkedin</strong></a>
+    ·
+    <a href="https://twitter.com/kb9700"><strong>Twitter</strong></a>
+    ·
+    <a href="https://angel.co/u/ken-mathieu-beaudin"><strong>Wellfound</strong></a>
+    ·
+    <a href="https://docs.google.com/document/d/1xsEzSvgUciC6Ogbx-zMEpy3of7SVXqV09zAal_e4I_M/edit?usp=sharing"><strong>Resume</strong></a>
+  </p>
 
 By adding style="text-decoration: none;" directly to each anchor tag, you should be able to remove the blue underline from the links. Please ensure there is no other conflicting CSS that might affect link styling. If the issue persists, you may need to contact GitHub support or review other CSS styles applied to your Markdown document that could be causing the underline.
 
