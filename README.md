@@ -13,6 +13,9 @@
     <a href="https://docs.google.com/document/d/1xsEzSvgUciC6Ogbx-zMEpy3of7SVXqV09zAal_e4I_M/edit?usp=sharing"><strong>Resume</strong></a>
   </p>
 </div>
+</br>
+</br>
+</br>
 
 <h1 style="padding-top:64px">Building communities and projects!</h1>
  
