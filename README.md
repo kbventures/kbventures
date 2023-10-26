@@ -1,6 +1,6 @@
 <img src="https://i.postimg.cc/pXzTKXv8/ken-beaudin-hero-banner-2.jpg" width="100%">
 
-<p align="center">
+<p align="center" style="text-decoration:none">
   <a href="https://kenbeaudin.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO WEBSITE&color=23555f&style=plastic&logo=&logo-color=white"/>
   </a>
