@@ -2,22 +2,29 @@
 
 <link rel="stylesheet" type="text/css" href="custom.css">
 <div align="center">
-  <a href="https://kenbeaudin.netlify.app/" target="_blank">
+  <a href="https://kenbeaudin.netlify.app/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO WEBSITE&color=23555f&style=plastic&logo=&logo-color=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/ken-beaudin-9a4061174/" target="_blank">
+  <a href="https://www.linkedin.com/in/ken-beaudin-9a4061174/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/kb9700" target="_blank">
+  <a href="https://twitter.com/kb9700" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://angel.co/u/ken-mathieu-beaudin" target="_blank">
+  <a href="https://angel.co/u/ken-mathieu-beaudin" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?label=|&message=WELLFOUND&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://docs.google.com/document/d/1xsEzSvgUciC6Ogbx-zMEpy3of7SVXqV09zAal_e4I_M/edit?usp=sharing" target="_blank">
+  <a href="https://docs.google.com/document/d/1xsEzSvgUciC6Ogbx-zMEpy3of7SVXqV09zAal_e4I_M/edit?usp=sharing" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </div>
+By adding style="text-decoration: none;" directly to each anchor tag, you should be able to remove the blue underline from the links. Please ensure there is no other conflicting CSS that might affect link styling. If the issue persists, you may need to contact GitHub support or review other CSS styles applied to your Markdown document that could be causing the underline.
+
+
+
+
+
+
 
 <h1 style="padding-top:64px">Building communities and projects!</h1>
  
