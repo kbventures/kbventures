@@ -7,11 +7,9 @@
   <a href="https://www.linkedin.com/in/ken-beaudin-9a4061174/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  </div>
   <a href="https://twitter.com/kb9700" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  </div>
   <a href="https://angel.co/u/ken-mathieu-beaudin" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=WELLFOUND&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
