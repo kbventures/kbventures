@@ -184,7 +184,7 @@ showcasing the content they create and their projects in one place.</p>
 </table>
 <!-- TEAM PROJECT -->
 
-<h1 align="center" style="padding-top:64px">Team Project</h1>
+<h1 align="center" style="padding-top:64px">Collaboration</h1>
 <table bordercolor="#66b2b2">
   <tr>
    <td width="50%" valign="top">
