@@ -1,25 +1,25 @@
 <img src="https://i.postimg.cc/pXzTKXv8/ken-beaudin-hero-banner-2.jpg" width="100%">
 
 <div align="center" style="text-decoration:none">
-  <a href="https://kenbeaudin.netlify.app/" target="_blank">
+  <a  style="text-decoration:none;" href="https://kenbeaudin.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO WEBSITE&color=23555f&style=plastic&logo=&logo-color=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/ken-beaudin-9a4061174/" target="_blank">
+  <a style="text-decoration:none;" href="https://www.linkedin.com/in/ken-beaudin-9a4061174/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/kb9700" target="_blank">
+  <a style="text-decoration:none;" href="https://twitter.com/kb9700" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://angel.co/u/ken-mathieu-beaudin" target="_blank">
+  <a style="text-decoration:none;" href="https://angel.co/u/ken-mathieu-beaudin" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=WELLFOUND&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://docs.google.com/document/d/1xsEzSvgUciC6Ogbx-zMEpy3of7SVXqV09zAal_e4I_M/edit?usp=sharing" target="_blank">
+  <a style="text-decoration:none;" href="https://docs.google.com/document/d/1xsEzSvgUciC6Ogbx-zMEpy3of7SVXqV09zAal_e4I_M/edit?usp=sharing" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </div>
 
 <h1 style="padding-top:64px">Building communities and projects!</h1>
-
+ 
 A business professional with 15+ years of experience implementing solutions for hundreds of clients and business partners as a business & banking Consultant and certified financial planner. 
 
 I'm Ken Beaudin and I am from Canada. As a software engineer, developing elegant solutions while elevating others is what I do. Helping others and communities grow is a passion of mine.
