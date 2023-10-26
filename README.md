@@ -200,6 +200,8 @@ showcasing the content they create and their projects in one place.</p>
   </tr>
 </table>
 
+<br/>
+
 <h1 align="center" style="padding-top:64px">Technologies</h1>
 
 <p align="center">
@@ -224,7 +226,7 @@ showcasing the content they create and their projects in one place.</p>
 </p>
 
 ---
-
+<br />
 <section align="center" style="padding-top:64px">
     <h1>Codewars</h1>
     <div>
@@ -232,6 +234,7 @@ showcasing the content they create and their projects in one place.</p>
     </div>
 </section>
 
+<br/>
 <h1 align="center" style="padding-top:64px">Connect</h1>
 
 <p align="center">
