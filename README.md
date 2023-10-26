@@ -26,6 +26,8 @@ Let's connect and grow together!
 
 See [my website](https://kenbeaudin.netlify.app) for more information!
 
+</br>
+
 <h1 align="center" style="padding-top:64px">Open Source & Personal Projects</h1>
 <table bordercolor="#66b2b2">
   <tr>
