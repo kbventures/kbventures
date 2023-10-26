@@ -26,7 +26,7 @@ Let's connect and grow together!
 
 See [my website](https://kenbeaudin.netlify.app) for more information!
 
-</br>
+<br/>
 
 <h1 align="center" style="padding-top:64px">Open Source & Personal Projects</h1>
 <table bordercolor="#66b2b2">
@@ -120,6 +120,7 @@ showcasing the content they create and their projects in one place.</p>
   </tr>
 </table>
 <!-- Freelance -->
+<br/>
 <h1 align="center" style="padding-top:64px">Freelance Projects</h1>
 <table bordercolor="#66b2b2"> 
   <tr>
