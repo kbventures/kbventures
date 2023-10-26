@@ -104,7 +104,7 @@ showcasing the content they create and their projects in one place.</p>
 </table>
 <!-- Freelance -->
 <br/>
-<h1 align="center" style="padding-top:64px">Freelance Work/h1>
+<h1 align="center" style="padding-top:64px">Freelance Work</h1>
 <table bordercolor="#66b2b2"> 
   <tr>
     <td width="50%" valign="top">
