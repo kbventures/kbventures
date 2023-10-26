@@ -237,23 +237,19 @@ showcasing the content they create and their projects in one place.</p>
 <br/>
 <h1 align="center" style="padding-top:64px">Connect</h1>
 
-<p align="center">
-  <a href="https://kenbeaudin.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ken-beaudin-9a4061174/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/kb9700" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://angel.co/u/ken-mathieu-beaudin" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=WELLFOUND&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="https://docs.google.com/document/d/1xsEzSvgUciC6Ogbx-zMEpy3of7SVXqV09zAal_e4I_M/edit?usp=sharing" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-</p>
+<div align="center" style="padding-top:64px">
+  <p align="center">
+    <a href="https://kenbeaudin.netlify.app"><strong>Portfolio Website</strong></a>
+    ·
+    <a href="https://www.linkedin.com/in/ken-beaudin-9a4061174/"><strong>Linkedin</strong></a>
+    ·
+    <a href="https://twitter.com/kb9700"><strong>Twitter</strong></a>
+    ·
+    <a href="https://angel.co/u/ken-mathieu-beaudin"><strong>Wellfound</strong></a>
+    ·
+    <a href="https://docs.google.com/document/d/1xsEzSvgUciC6Ogbx-zMEpy3of7SVXqV09zAal_e4I_M/edit?usp=sharing"><strong>Resume</strong></a>
+  </p>
+</div>
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
