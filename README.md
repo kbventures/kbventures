@@ -127,7 +127,7 @@ showcasing the content they create and their projects in one place.</p>
         <p><strong>HTML, CSS, Javascript, Git, Github, PHP, cPanel & Webflow</strong> - JECC Arte is a business specialising in art and photography.</p>
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td width="50%" valign="top">
       <h3 align="center">AfterWerk</h3>
         <br />
@@ -163,7 +163,7 @@ showcasing the content they create and their projects in one place.</p>
       </p>
         <p><strong>HTML, CSS, SASS, JavasSript, Gulp, Node.js, NPM, PHP, Git, cPanel, Google Cloud</strong> - Specializes in consulting and deploying budget control solutions, costing and analyzing the profitability of your products, customers and processes.</p>
     </td>
-  </tr>
+  </tr> -->
 </table>
 <!-- TEAM PROJECT -->
 
