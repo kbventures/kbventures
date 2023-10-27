@@ -108,7 +108,7 @@ showcasing the content they create and their projects in one place.</p>
       </p>
         <p><strong>HTML, CSS, Next.js, Node.js, NPM, Git, Github & Strapi</strong> - Robert Tercek is one of the world’s most prolific creators of interactive content. He has created breakthrough entertainment experiences on every digital platform. I collaborated with a team of developers to convert the website's API from a Wordpress GraphQL setup to a Strapi backend.</p>
     </td>
-     <td width="50%" valign="top">
+<!--      <td width="50%" valign="top">
       <h3 align="center">JECC Arte</h3>
         <br />
         <a target="_blank" href="https://jeccarte.com">
@@ -125,7 +125,7 @@ showcasing the content they create and their projects in one place.</p>
   </a>
       </p>
         <p><strong>HTML, CSS, Javascript, Git, Github, PHP, cPanel & Webflow</strong> - JECC Arte is a business specialising in art and photography.</p>
-    </td>
+    </td> -->
   </tr>
 <!--   <tr>
     <td width="50%" valign="top">
