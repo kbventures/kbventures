@@ -50,23 +50,6 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
       </p>
         <p><strong>HTML, CSS, SASS, Next.js, React, Node.js, PostgreSQL, Next-i18next, Next-auth, Git, Github, Playwright, Vercel, Superbase & Prisma</strong> - mTrade is Mindful analysis or your personal trade and chart price history </p>
     </td>
-  <td width="50%" valign="top">
-      <h3 align="center">Ken Beaudin</h3>
-      <br />
-        <a target="_blank" href="https://kenbeaudin.netlify.app/">
-          <img src="images/ken-beaudin-banner.png" height="190px" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/kbventures/webpack-portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://kenbeaudin.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, Javascript, Node.js, NPM, Webpack, Git & Netlify</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td>
   </tr>
 </table>
 <!-- OPEN SOURCE CONTRIBUTION -->
