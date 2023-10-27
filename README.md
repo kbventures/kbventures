@@ -85,86 +85,34 @@ showcasing the content they create and their projects in one place.</p>
     </td>
   </tr>
 </table>
-<!-- Freelance -->
-<br/>
+
+<!-- FREELANCE -->
+
 <h1 align="center" style="padding-top:64px">Freelance Work</h1>
-<table bordercolor="#66b2b2"> 
+<table bordercolor="#66b2b2">
   <tr>
-    <td width="50%" valign="top">
+   <td width="50%" valign="top">
       <h3 align="center">Robert Tercek</h3>
         <br />
         <a target="_blank" href="https://roberttercek.com/">
-          <img src="images/robert-tercek.PNG" height="190px" alt="Matching Cards"/>
+        <p align="center">
+            <img align="center" src="images/robert-tercek.PNG" height="190px" alt="Robert Tercek"/>
+        </p>
         </a>
         <br />
-        <p align="center">
-          
+        <p align="center">    
   <a href="https://github.com/kbventures/Robert-Tercek" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
+  </a>  
   <a href="https://roberttercek.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML, CSS, Next.js, Node.js, NPM, Git, Github & Strapi</strong> - Robert Tercek is one of the world’s most prolific creators of interactive content. He has created breakthrough entertainment experiences on every digital platform. I collaborated with a team of developers to convert the website's API from a Wordpress GraphQL setup to a Strapi backend.</p>
     </td>
-<!--      <td width="50%" valign="top">
-      <h3 align="center">JECC Arte</h3>
-        <br />
-        <a target="_blank" href="https://jeccarte.com">
-          <img width="100%" src="images/DSC09978.jpeg" height="190px" alt="Matching Cards"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/kbventures/JECC-Arte" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://jeccarte.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML, CSS, Javascript, Git, Github, PHP, cPanel & Webflow</strong> - JECC Arte is a business specialising in art and photography.</p>
-    </td> -->
   </tr>
-<!--   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">AfterWerk</h3>
-        <br />
-        <a target="_blank" href="https://afterwerk.netlify.app/">
-          <img src="images/AfterWerk Logo - Colours RGB.webp" height="190px" alt="Matching Cards"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/kbventures/afterwerk-toronto" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://afterwerk.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML, CSS, SASS, Node.js, NPM, Git & Netlify</strong> - After Werk is a lifestyle brand dedicated to being your best outside work. We enable connecting with others through fun events, practissing self-care with help from products in our online store.</p>
-    </td>
-     <td width="50%" valign="top">
-      <h3 align="center">Prognose</h3>
-      <br />
-        <a target="_blank" href="https://competent-wright-5e4a22.netlify.app/">
-          <img src="images/prognose_logo.png" height="190px" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/kbventures/prognose" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://competent-wright-5e4a22.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML, CSS, SASS, JavasSript, Gulp, Node.js, NPM, PHP, Git, cPanel, Google Cloud</strong> - Specializes in consulting and deploying budget control solutions, costing and analyzing the profitability of your products, customers and processes.</p>
-    </td>
-  </tr> -->
 </table>
+
 <!-- TEAM PROJECT -->
 
 <h1 align="center" style="padding-top:64px">Collaboration</h1>
@@ -183,7 +131,7 @@ showcasing the content they create and their projects in one place.</p>
   <a href="https://github.com/kbventures/ecommerce" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://erenaissance-frontend.vercel.app/" target="_blank">
+  <a href="https://roberttercek.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
   </a>
       </p>
