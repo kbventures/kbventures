@@ -20,7 +20,7 @@
  
 A business professional with 15+ years of experience implementing solutions for hundreds of clients and business partners as a business & banking Consultant and certified financial planner. 
 
-I'm Ken Beaudin and I am from Canada. As a software engineer, developing elegant solutions while elevating others is what I do. Helping others and communities grow is a passion of mine.
+I'm Ken Beaudin and I am from Canada. As a software developer, developing elegant solutions while elevating others is what I do. Helping others and communities grow is a passion of mine.
 
 Let's connect and grow together!
 
