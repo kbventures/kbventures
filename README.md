@@ -96,7 +96,7 @@ showcasing the content they create and their projects in one place.</p>
         <br />
         <a target="_blank" href="https://roberttercek.com/">
         <p align="center">
-            <img align="center" src="images/robert-tercek.PNG" height="190px" alt="Robert Tercek"/>
+            <img align="center" style="object-fit: contain;" src="images/robert-tercek.PNG" height="190px" alt="Robert Tercek"/>
         </p>
         </a>
         <br />
