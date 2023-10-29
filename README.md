@@ -36,7 +36,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
         <br />
         <a target="_blank" href="https://next-mtrade.vercel.app/">
             <p align="center">
-            <img src="images/logo_img.png" height="190px" alt="mTrade Web Application"/>
+            <img src="images/logo_img.png" width="70%" alt="mTrade Web Application"/>
             </p>
         </a>
         <br />
@@ -61,7 +61,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
         <br />
         <a target="_blank" href="https://www.biodrop.io/">
         <p align="center">
-            <img align="center" style="object-fit: contain;" src="images/biodrop.png" height="190px" alt="eCommerce App"/>
+            <img align="center" src="images/biodrop.png" width="70%" alt="eCommerce App"/>
         </p>
         </a>
         <br />
@@ -96,7 +96,7 @@ showcasing the content they create and their projects in one place.</p>
         <br />
         <a target="_blank" href="https://roberttercek.com/">
         <p align="center">
-            <img align="center" style="object-fit: contain;" src="images/robert-tercek.PNG" height="190px" alt="Robert Tercek"/>
+            <img align="center" src="images/robert-tercek.PNG" width="70%" alt="Robert Tercek"/>
         </p>
         </a>
         <br />
@@ -118,12 +118,12 @@ showcasing the content they create and their projects in one place.</p>
 <h1 align="center" style="padding-top:64px">Collaboration</h1>
 <table bordercolor="#66b2b2">
   <tr>
-   <td width="50%" valign="top">
+   <td width="65%" valign="top">
       <h3 align="center">eRenaissance</h3>
         <br />
         <a target="_blank" href="https://erenaissance-frontend.vercel.app/">
         <p align="center">
-            <img align="center" style="object-fit: contain;" src="images/e-renaissance-logo.png" height="190px" alt="eCommerce App"/>
+            <img align="center" src="images/e-renaissance-logo.png" width="70%" alt="eCommerce App"/>
         </p>
         </a>
         <br />
