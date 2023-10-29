@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/pXzTKXv8/ken-beaudin-hero-banner-2.jpg" style="object-fit: contain;" width="100%">
+<img src="https://i.postimg.cc/gcXXzCt2/new-banner.png" style="object-fit: contain;" width="100%">
 
 </br>
 <div align="center" style="padding-top:64px">
