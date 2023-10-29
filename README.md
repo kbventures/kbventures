@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/pXzTKXv8/ken-beaudin-hero-banner-2.jpg" width="100%">
+<img src="https://i.postimg.cc/pXzTKXv8/ken-beaudin-hero-banner-2.jpg" style="object-fit: contain;" width="100%">
 
 </br>
 <div align="center" style="padding-top:64px">
@@ -61,7 +61,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
         <br />
         <a target="_blank" href="https://www.biodrop.io/">
         <p align="center">
-            <img align="center" src="images/biodrop.png" height="190px" alt="eCommerce App"/>
+            <img align="center" style="object-fit: contain;" src="images/biodrop.png" height="190px" alt="eCommerce App"/>
         </p>
         </a>
         <br />
@@ -123,7 +123,7 @@ showcasing the content they create and their projects in one place.</p>
         <br />
         <a target="_blank" href="https://erenaissance-frontend.vercel.app/">
         <p align="center">
-            <img align="center" src="images/e-renaissance-logo.png" height="190px" alt="eCommerce App"/>
+            <img align="center" style="object-fit: contain;" src="images/e-renaissance-logo.png" height="190px" alt="eCommerce App"/>
         </p>
         </a>
         <br />
