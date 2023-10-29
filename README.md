@@ -123,7 +123,7 @@ showcasing the content they create and their projects in one place.</p>
         <br />
         <a target="_blank" href="https://erenaissance-frontend.vercel.app/">
         <p align="center">
-            <img align="center" src="images/e-renaissance-logo.png" width="70%" alt="eCommerce App"/>
+            <img align="center" src="images/e-renaissance-logo.png" width="60%" alt="eCommerce App"/>
         </p>
         </a>
         <br />
