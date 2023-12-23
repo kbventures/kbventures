@@ -132,7 +132,7 @@ showcasing the content they create and their projects in one place.</p>
     <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
       </p>
-        <p><strong>HTML, CSS, Next.js, React, Node.js, Tailwind, Git, Github, GitHub Actions, CIDC, Playwright</strong></p>
+        <p><strong>HTML, CSS, Next.js, React, Node.js, Tailwind, Git, Github, GitHub Actions, CIDC, Playwright</strong> - Comprehensive Next.js Guide for Internationalizing and Localizing Your Web Application using next-i18next.</p>
     </td>
   </tr>
 </table>
