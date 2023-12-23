@@ -131,11 +131,8 @@ showcasing the content they create and their projects in one place.</p>
   <a href="https://github.com/kbventures/ecommerce" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://roberttercek.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
-  </a>
       </p>
-        <p><strong>HTML, CSS, CSS Modules, React, Webpack, Node.js, Webpack, MongoDB, TypeScript, Vercel & Git</strong> - eRenaissance is a custom-built state-of-the-art e-commerce website with Stripe integration built by over four developers!</p>
+        <p><strong>HTML, CSS, Next.js, React, Node.js, Tailwind, Git, Github, GitHub Actions, CIDC, Playwright</strong></p>
     </td>
   </tr>
 </table>
