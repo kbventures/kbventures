@@ -131,6 +131,9 @@ showcasing the content they create and their projects in one place.</p>
   <a href="https://github.com/kbventures/ecommerce" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
+    <a href="https://roberttercek.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=BLOG&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
+  </a>
       </p>
         <p><strong>HTML, CSS, Next.js, React, Node.js, Tailwind, Git, Github, GitHub Actions, CIDC, Playwright</strong> - Comprehensive Next.js Guide for Internationalizing and Localizing Your Web Application using next-i18next.</p>
     </td>
@@ -155,7 +158,7 @@ showcasing the content they create and their projects in one place.</p>
   <a href="https://github.com/kbventures/ecommerce" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://roberttercek.com/" target="_blank">
+  <a href="https://erenaissance-frontend.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
   </a>
       </p>
