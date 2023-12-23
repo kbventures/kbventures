@@ -113,6 +113,33 @@ showcasing the content they create and their projects in one place.</p>
   </tr>
 </table>
 
+<!-- BLOG -->
+
+<h1 align="center" style="padding-top:64px">Blog</h1>
+<table bordercolor="#66b2b2">
+  <tr>
+   <td width="65%" valign="top">
+      <h3 align="center">Comprehensive Next.js Guide for Internationalizing and Localizing Your Web Application</h3>
+        <br />
+        <a target="_blank" href="https://hashnode.com/draft/64c7d2521c2c480010216af">
+        <p align="center">
+            <img align="center" src="https://res.cloudinary.com/dwxtx5mcj/image/upload/v1703351855/int-loc-blog_rhox27.jpg" width="55%" alt="eCommerce App"/>
+        </p>
+        </a>
+        <br />
+        <p align="center">    
+  <a href="https://github.com/kbventures/ecommerce" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://roberttercek.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, CSS Modules, React, Webpack, Node.js, Webpack, MongoDB, TypeScript, Vercel & Git</strong> - eRenaissance is a custom-built state-of-the-art e-commerce website with Stripe integration built by over four developers!</p>
+    </td>
+  </tr>
+</table>
+
 <!-- TEAM PROJECT -->
 
 <h1 align="center" style="padding-top:64px">Collaboration</h1>
