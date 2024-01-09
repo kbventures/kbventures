@@ -91,7 +91,7 @@ showcasing the content they create and their projects in one place.</p>
 <!-- OPEN SOURCE CONTRIBUTION -->
 <!-- CCXT -->
 
-<h1 align="center" style="padding-top:64px">Open Source Contribution</h1>
+<!-- <h1 align="center" style="padding-top:64px">Open Source Contribution</h1> -->
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
@@ -99,7 +99,7 @@ showcasing the content they create and their projects in one place.</p>
         <br />
         <a target="_blank" href="https://www.biodrop.io/">
         <p align="center">
-            <img align="center" src="images/biodrop.png" width="75%" alt="eCommerce App"/>
+            <img align="center" src="images/ccxt_logo.jpeg" width="75%" alt="eCommerce App"/>
         </p>
         </a>
         <br />
