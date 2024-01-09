@@ -99,7 +99,7 @@ showcasing the content they create and their projects in one place.</p>
         <br />
         <a target="_blank" href="https://www.biodrop.io/">
         <p align="center">
-            <img align="center" src="images/ccxt_logo.jpeg" width="75%" alt="eCommerce App"/>
+            <img align="center" src="images/ccxt_logo.jpeg" width="50%" alt="CCXT Repository"/>
         </p>
         </a>
         <br />
