@@ -97,7 +97,7 @@ showcasing the content they create and their projects in one place.</p>
     <td width="50%" valign="top">
       <h3 align="center">CCXT</h3>
         <br />
-        <a target="_blank" href="https://www.biodrop.io/">
+        <a target="_blank" href="https://github.com/ccxt/ccxt">
         <p align="center">
             <img align="center" src="images/ccxt_logo.jpeg" width="25%" alt="CCXT Repository"/>
         </p>
