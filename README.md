@@ -118,8 +118,7 @@ showcasing the content they create and their projects in one place.</p>
     <img src="https://img.shields.io/static/v1?label=|&message=ISSUES&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
       </p>
-        <p><strong>HTML, CSS, Next.js, React, Node.js, MongoDB, Docker, Tailwind, Git, Github</strong> - Open source contributor to Biodrop an open-source project to connect users to their audience with a single link
-showcasing the content they create and their projects in one place.</p>
+        <p><strong>TypeScript, Node.js, Docker, Git, Github & Third Party API's</strong> - The CCXT library is used to connect and trade with cryptocurrency exchanges and payment processing services worldwide. It provides quick access to market data for storage, analysis, visualization, indicator development, algorithmic trading, strategy backtesting, bot programming, and related software engineering.</p>
     </td>
   </tr>
 </table>
