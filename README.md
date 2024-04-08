@@ -247,7 +247,7 @@ showcasing the content they create and their projects in one place.</p>
     ·
     <a href="https://angel.co/u/ken-mathieu-beaudin"><strong>Wellfound</strong></a>
     ·
-    <a href="https://docs.google.com/document/d/1xsEzSvgUciC6Ogbx-zMEpy3of7SVXqV09zAal_e4I_M/edit?usp=sharing"><strong>Resume</strong></a>
+    <a href="https://drive.google.com/file/d/13tz8JmtOWwTbhTTvOOGwVrP8SzNPntBg/view?usp=sharing"><strong>Resume</strong></a>
   </p>
 </div>
 
