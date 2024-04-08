@@ -37,7 +37,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
         </a>
         <br />
         <p align="center">    
-  <a href="https://github.com/kbventures/next-mtrad" target="_blank">
+  <a href="https://github.com/kbventures/next-mtrade" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://next-mtrade-lime.vercel.app/" target="_blank">
