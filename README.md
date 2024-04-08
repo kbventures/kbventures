@@ -11,7 +11,7 @@
     ·
     <a href="https://angel.co/u/ken-mathieu-beaudin"><strong>Wellfound</strong></a>
     ·
-    <a href="https://docs.google.com/document/d/1XIXHsmOfbWKh8-XsR1LpeNwn4q3b5GImrb3YwxzGn9U/edit?usp=sharing"><strong>Resume</strong></a>
+    <a href="https://drive.google.com/file/d/13tz8JmtOWwTbhTTvOOGwVrP8SzNPntBg/view?usp=sharing"><strong>Resume</strong></a>
   </p>
 </div>
 </br>
