@@ -16,13 +16,9 @@
 </div>
 </br>
 
-<h1 style="padding-top:64px">Building communities and projects!</h1>
+<h1 style="padding-top:64px">Hi! I'm Ken Beaudin.</h1>
  
-A business professional with 15+ years of experience implementing solutions for hundreds of clients and business partners as a business & banking Consultant and certified financial planner. 
-
-I'm Ken Beaudin and I am from Canada. As a software developer, developing elegant solutions while elevating others is what I do. Helping others and communities grow is a passion of mine.
-
-Let's connect and grow together!
+Experienced freelance full-stack software developer with a demonstrated history of working in the computer software industry. Skilled in solving problems with HTML, CSS, Javascript, Typescript, React, Next.js, Docker, MongoDB & SQL! I focus on being a valuable part of any team I am on and believe the team should rise together. If one portion of the team needs help with a task, I have no issue jumping in to assist with anything required. I am an organizer for the largest meetup group of Developers in the Toronto area. I assist in organizing events, coordinating promotion efforts, and managing the promo team and its initiatives. I also contribute to open-source projects and blogging about internationalizing web applications. I speak English and French fluently and I am currency learning Spanish. Developing elegant user-centric solutions while building communities is what I do
 
 See [my website](https://kenbeaudin.netlify.app) for more information!
 
