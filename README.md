@@ -154,17 +154,17 @@ showcasing the content they create and their projects in one place.</p>
    <td width="65%" valign="top">
       <h3 align="center">Comprehensive Next.js Guide for Internationalizing and Localizing Your Web Application</h3>
         <br />
-        <a target="_blank" href="https://hashnode.com/draft/64c7d2521c2c480010216af">
+        <a target="_blank" href="https://kenbeaudin.hashnode.dev/">
         <p align="center">
             <img align="center" src="https://res.cloudinary.com/dwxtx5mcj/image/upload/v1703351855/int-loc-blog_rhox27.jpg" width="55%" alt="eCommerce App"/>
         </p>
         </a>
         <br />
         <p align="center">    
-  <a href="https://github.com/kbventures/ecommerce" target="_blank">
+  <a href="https://github.com/kbventures/next-i18next-blog" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-    <a href="https://roberttercek.com/" target="_blank">
+    <a href="https://kenbeaudin.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=BLOG&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
   </a>
       </p>
