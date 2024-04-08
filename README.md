@@ -3,15 +3,15 @@
 </br>
 <div align="center" style="padding-top:64px">
   <p align="center">
-    <a href="https://kenbeaudin.netlify.app"><strong>Portfolio Website</strong></a>
+    <a target="_blank" href="https://kenbeaudin.netlify.app"><strong>Portfolio Website</strong></a>
     ·
-    <a href="https://www.linkedin.com/in/ken-beaudin-9a4061174/"><strong>Linkedin</strong></a>
+    <a target="_blank" href="https://www.linkedin.com/in/ken-beaudin-9a4061174/"><strong>Linkedin</strong></a>
     ·
-    <a href="https://twitter.com/kb9700"><strong>Twitter</strong></a>
+    <a target="_blank" href="https://twitter.com/kb9700"><strong>Twitter</strong></a>
     ·
-    <a href="https://angel.co/u/ken-mathieu-beaudin"><strong>Wellfound</strong></a>
+    <a target="_blank" href="https://angel.co/u/ken-mathieu-beaudin"><strong>Wellfound</strong></a>
     ·
-    <a href="https://drive.google.com/file/d/13tz8JmtOWwTbhTTvOOGwVrP8SzNPntBg/view?usp=sharing"><strong>Resume</strong></a>
+    <a target="_blank" href="https://drive.google.com/file/d/13tz8JmtOWwTbhTTvOOGwVrP8SzNPntBg/view?usp=sharing"><strong>Resume</strong></a>
   </p>
 </div>
 </br>
@@ -30,17 +30,17 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
     <td width="50%" valign="top">
       <h3 align="center">mTrade</h3>
         <br />
-        <a target="_blank" href="https://next-mtrade.vercel.app/">
+        <a target="_blank" href="https://next-mtrade-lime.vercel.app/">
             <p align="center">
             <img src="images/logo_img.png" width="75%" alt="mTrade Web Application"/>
             </p>
         </a>
         <br />
         <p align="center">    
-  <a href="https://github.com/kbventures/next-mtrade" target="_blank">
+  <a href="https://github.com/kbventures/next-mtrad" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://next-mtrade.vercel.app/" target="_blank">
+  <a href="https://next-mtrade-lime.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=&logo-color=white"/>
   </a>
       </p>
