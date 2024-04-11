@@ -18,9 +18,9 @@
 
 <h1 style="padding-top:64px">Hi! I'm Ken Beaudin.</h1>
  
-A full-stack developer with a background in sales and business consulting who is passionate about building web applications. Due to my background, I am a creative problem solver with excellent team skills, and I am seeking a position with you!
+A full stack developer with a background in sales & business consulting with a passion for creating web applications. I am a creative problem solver with excellent team skills due to my background and I am looking for a position on your team!
 
-If I am not working on a passion project, you will find me at the gym or blogging about interanationalising web applications, open source projects, learning languages (I speak English, French, and now learning Spanish), and travelling (16 countries in five years).
+When I am not working on a passion project, you will find me at the gym or blogging about interanationalizing web applications, open source projects, learning languages(I speak English, French and now learning Spanish), and traveling (16 countries in the last 5 years)!
 
 See [my website](https://kenbeaudin.netlify.app) for more information!
 
