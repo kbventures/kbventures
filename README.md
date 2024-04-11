@@ -18,7 +18,9 @@
 
 <h1 style="padding-top:64px">Hi! I'm Ken Beaudin.</h1>
  
-Full-stack software developer with a demonstrated history of working in the computer software industry. Skilled in solving problems with HTML, CSS, Javascript, Typescript, React, Next.js, Docker, MongoDB & SQL! I focus on being a valuable part of any team I am on and believe the team should rise together. If one portion of the team needs help with a task, I have no issue jumping in to assist with anything required. I am an organizer for the largest meetup group of Developers in the Toronto area. I assist in organizing events, coordinating promotion efforts, and managing the promo team and its initiatives. I also contribute to open-source projects and blogging about internationalizing web applications. I speak English and French fluently and I am currency learning Spanish. Developing elegant user-centric solutions while building communities is what I do
+A full-stack developer with a background in sales and business consulting who is passionate about building web applications. Due to my background, I am a creative problem solver with excellent team skills, and I am seeking a position with you!
+
+If I am not working on a passion project, you will find me at the gym or blogging about interanationalising web applications, open source projects, learning languages (I speak English, French, and now learning Spanish), and travelling (16 countries in five years).
 
 See [my website](https://kenbeaudin.netlify.app) for more information!
 
