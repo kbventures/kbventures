@@ -46,7 +46,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, SASS, Next.js, React, Node.js, PostgreSQL, Next-i18next, Next-auth, Git, Github, Playwright, Vercel, Superbase & Prisma</strong> - mTrade is Mindful analysis or your personal trade and chart price history </p>
+        <p><strong>HTML, CSS, SASS, Next.js, React, Node.js, PostgreSQL, Next-i18next, Next-auth, Git, Github, Playwright, Vercel, Superbase & Prisma</strong> - Internationalized full-stack, responsive web application that enables users to consolidate, analyze, and visualize digital asset data from private APIs across multiple platforms </p>
     </td>
   </tr>
 </table>
