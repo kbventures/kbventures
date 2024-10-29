@@ -71,15 +71,12 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
   <a href="https://github.com/date-fns/date-fns" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://github.com/date-fns/date-fns" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
-  </a>
     <a href="https://github.com/date-fns/date-fns/pulls/kbventures" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=PULL REQUESTS&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
-    <a href="https://github.com/date-fns/date-fns/pulls/kbventures" target="_blank">
+<!--     <a href="https://github.com/date-fns/date-fns/pulls/kbventures" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=ISSUES&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a> 
+  </a>  -->
       </p>
         <p><strong>Node.js, TypeScript, Git and Github</strong> - Date-fns is a lightweight JavaScript library that provides a comprehensive set of functions for manipulating and formatting dates in a functional programming style. Introduced formatRFC822 standard which specifies a syntax for text messages that are sent among computer users, within the framework of "electronic mail.</p>
     </td>
