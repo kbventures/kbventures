@@ -9,8 +9,6 @@
     ·
     <a target="_blank" href="https://twitter.com/kb9700"><strong>Twitter</strong></a>
     ·
-    <a target="_blank" href="https://angel.co/u/ken-mathieu-beaudin"><strong>Wellfound</strong></a>
-    ·
     <a target="_blank" href="https://drive.google.com/file/d/1Y8TSdxUyA6JaKvpXLi_F2vL1p8J9sVn0/view"><strong>Resume</strong></a>
   </p>
 </div>
@@ -274,8 +272,6 @@ showcasing the content they create and their projects in one place.</p>
     <a href="https://www.linkedin.com/in/ken-beaudin-9a4061174/"><strong>Linkedin</strong></a>
     ·
     <a href="https://twitter.com/kb9700"><strong>Twitter</strong></a>
-    ·
-    <a href="https://angel.co/u/ken-mathieu-beaudin"><strong>Wellfound</strong></a>
     ·
     <a href="https://drive.google.com/file/d/1Y8TSdxUyA6JaKvpXLi_F2vL1p8J9sVn0/view"><strong>Resume</strong></a>
   </p>
