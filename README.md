@@ -135,9 +135,9 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
   <a href="https://github.com/EddieHubCommunity/BioDrop" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://www.biodrop.io/" target="_blank">
+<!--   <a href="https://www.biodrop.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
-  </a>
+  </a> -->
     <a href="https://github.com/EddieHubCommunity/BioDrop/pulls/kbventures" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=PULL REQUESTS&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
