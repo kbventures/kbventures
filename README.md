@@ -16,6 +16,7 @@
 </div>
 </br>
 
+<!-- FREELANCE -->
 <h1 style="padding-top:64px">Hi! I'm Ken Beaudin.</h1>
  
 A full stack developer with a background in sales & business consulting with a passion for creating web applications. I am a creative problem solver with excellent team skills due to my background and I am looking for a position on your team!
@@ -26,30 +27,31 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
 
 <br/>
 
-<h1 align="center" style="padding-top:64px">Personal Projects</h1>
+<h1 align="center" style="padding-top:64px">Freelance Work</h1>
 <table bordercolor="#66b2b2">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">mTrade</h3>
+   <td width="50%" valign="top">
+      <h3 align="center">Robert Tercek</h3>
         <br />
-        <a target="_blank" href="https://next-mtrade-lime.vercel.app/">
-            <p align="center">
-            <img src="images/logo_img.png" width="75%" alt="mTrade Web Application"/>
-            </p>
+        <a target="_blank" href="https://roberttercek.com/">
+        <p align="center">
+            <img align="center" src="images/robert-tercek.PNG" width="75%" alt="Robert Tercek"/>
+        </p>
         </a>
         <br />
         <p align="center">    
-  <a href="https://github.com/kbventures/next-mtrade" target="_blank">
+  <a href="https://github.com/kbventures/Robert-Tercek" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://next-mtrade.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=&logo-color=white"/>
+  <a href="https://roberttercek.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, SASS, Next.js, React, Node.js, PostgreSQL, Next-i18next, Next-auth, Git, Github, Playwright, Vercel, Superbase & Prisma</strong> - Internationalized full-stack, responsive web application that enables users to consolidate, analyze, and visualize digital asset data from private APIs across multiple platforms </p>
+        <p><strong>HTML, CSS, Next.js, Node.js, NPM, Git, Github & Strapi</strong> - Robert Tercek is one of the world’s most prolific creators of interactive content. He has created breakthrough entertainment experiences on every digital platform. I collaborated with a team of developers to convert the website's API from a Wordpress GraphQL setup to a Strapi backend.</p>
     </td>
   </tr>
 </table>
+
 <!-- OPEN SOURCE CONTRIBUTION -->
 <!-- BIODROP -->
 
@@ -121,33 +123,6 @@ showcasing the content they create and their projects in one place.</p>
   </tr>
 </table>
 
-<!-- FREELANCE -->
-
-<h1 align="center" style="padding-top:64px">Freelance Work</h1>
-<table bordercolor="#66b2b2">
-  <tr>
-   <td width="50%" valign="top">
-      <h3 align="center">Robert Tercek</h3>
-        <br />
-        <a target="_blank" href="https://roberttercek.com/">
-        <p align="center">
-            <img align="center" src="images/robert-tercek.PNG" width="75%" alt="Robert Tercek"/>
-        </p>
-        </a>
-        <br />
-        <p align="center">    
-  <a href="https://github.com/kbventures/Robert-Tercek" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://roberttercek.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML, CSS, Next.js, Node.js, NPM, Git, Github & Strapi</strong> - Robert Tercek is one of the world’s most prolific creators of interactive content. He has created breakthrough entertainment experiences on every digital platform. I collaborated with a team of developers to convert the website's API from a Wordpress GraphQL setup to a Strapi backend.</p>
-    </td>
-  </tr>
-</table>
-
 <!-- BLOG -->
 
 <h1 align="center" style="padding-top:64px">Blog</h1>
@@ -171,6 +146,31 @@ showcasing the content they create and their projects in one place.</p>
   </a>
       </p>
         <p><strong>HTML, CSS, Next.js, React, Node.js, Tailwind, Git, Github, GitHub Actions, CIDC, Jest, Testing Library & Playwright</strong> - Comprehensive Next.js Guide for Internationalizing and Localizing Your Web Application using next-i18next.</p>
+    </td>
+  </tr>
+</table>
+
+<h1 align="center" style="padding-top:64px">Personal Projects</h1>
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">mTrade</h3>
+        <br />
+        <a target="_blank" href="https://next-mtrade-lime.vercel.app/">
+            <p align="center">
+            <img src="images/logo_img.png" width="75%" alt="mTrade Web Application"/>
+            </p>
+        </a>
+        <br />
+        <p align="center">    
+  <a href="https://github.com/kbventures/next-mtrade" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://next-mtrade.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, SASS, Next.js, React, Node.js, PostgreSQL, Next-i18next, Next-auth, Git, Github, Playwright, Vercel, Superbase & Prisma</strong> - Internationalized full-stack, responsive web application that enables users to consolidate, analyze, and visualize digital asset data from private APIs across multiple platforms </p>
     </td>
   </tr>
 </table>
