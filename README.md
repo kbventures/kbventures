@@ -87,39 +87,6 @@ showcasing the content they create and their projects in one place.</p>
   </tr>
 </table>
 
-<h1 align="center" style="padding-top:64px">Open Source Contribution</h1>
-<table bordercolor="#66b2b2">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Biodrop</h3>
-        <br />
-        <a target="_blank" href="https://www.biodrop.io/">
-        <p align="center">
-            <img align="center" src="images/biodrop.png" width="75%" alt="eCommerce App"/>
-        </p>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/EddieHubCommunity/BioDrop" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://www.biodrop.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
-  </a>
-    <a href="https://github.com/EddieHubCommunity/BioDrop/pulls/kbventures" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=PULL REQUESTS&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a> 
-    <a href="https://github.com/EddieHubCommunity/BioDrop/issues/created_by/kbventures" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=ISSUES&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a> 
-      </p>
-        <p><strong>HTML, CSS, Next.js, React, Node.js, MongoDB, Docker, Tailwind, Git, Github</strong> - Open source contributor to Biodrop an open-source project to connect users to their audience with a single link
-showcasing the content they create and their projects in one place.</p>
-    </td>
-  </tr>
-</table>
-
 <!-- OPEN SOURCE CONTRIBUTION -->
 <!-- CCXT -->
 
@@ -151,6 +118,39 @@ showcasing the content they create and their projects in one place.</p>
   </a> 
       </p>
         <p><strong>TypeScript, Node.js, Docker, Git, Github & Third Party API's</strong> - The CCXT library is used to connect and trade with cryptocurrency exchanges and payment processing services worldwide. It provides quick access to market data for storage, analysis, visualization, indicator development, algorithmic trading, strategy backtesting, bot programming, and related software engineering.</p>
+    </td>
+  </tr>
+</table>
+
+<h1 align="center" style="padding-top:64px">Open Source Contribution</h1>
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Biodrop</h3>
+        <br />
+        <a target="_blank" href="https://www.biodrop.io/">
+        <p align="center">
+            <img align="center" src="images/biodrop.png" width="75%" alt="eCommerce App"/>
+        </p>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/EddieHubCommunity/BioDrop" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://www.biodrop.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
+  </a>
+    <a href="https://github.com/EddieHubCommunity/BioDrop/pulls/kbventures" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=PULL REQUESTS&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+    <a href="https://github.com/EddieHubCommunity/BioDrop/issues/created_by/kbventures" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=ISSUES&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+      </p>
+        <p><strong>HTML, CSS, Next.js, React, Node.js, MongoDB, Docker, Tailwind, Git, Github</strong> - Open source contributor to Biodrop an open-source project to connect users to their audience with a single link
+showcasing the content they create and their projects in one place.</p>
     </td>
   </tr>
 </table>
