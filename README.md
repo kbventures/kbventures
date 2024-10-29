@@ -62,7 +62,7 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
         <br />
         <a target="_blank" href="https://github.com/date-fns/date-fns">
         <p align="center">
-            <img align="center" src="images/date-fns.jpep" width="75%" alt="eCommerce App"/>
+            <img align="center" src="images/date-fns.jpeg" width="75%" alt="eCommerce App"/>
         </p>
         </a>
         <br />
