@@ -58,31 +58,30 @@ See [my website](https://kenbeaudin.netlify.app) for more information!
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Biodrop</h3>
+      <h3 align="center">Date-fns</h3>
         <br />
-        <a target="_blank" href="https://www.biodrop.io/">
+        <a target="_blank" href="https://github.com/date-fns/date-fns">
         <p align="center">
-            <img align="center" src="images/biodrop.png" width="75%" alt="eCommerce App"/>
+            <img align="center" src="images/date-fns.jpep" width="75%" alt="eCommerce App"/>
         </p>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/EddieHubCommunity/BioDrop" target="_blank">
+  <a href="https://github.com/date-fns/date-fns" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://www.biodrop.io/" target="_blank">
+  <a href="https://github.com/date-fns/date-fns" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
   </a>
-    <a href="https://github.com/EddieHubCommunity/BioDrop/pulls/kbventures" target="_blank">
+    <a href="https://github.com/date-fns/date-fns/pulls/kbventures" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=PULL REQUESTS&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
-    <a href="https://github.com/EddieHubCommunity/BioDrop/issues/created_by/kbventures" target="_blank">
+    <a href="https://github.com/date-fns/date-fns/pulls/kbventures" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=ISSUES&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
       </p>
-        <p><strong>HTML, CSS, Next.js, React, Node.js, MongoDB, Docker, Tailwind, Git, Github</strong> - Open source contributor to Biodrop an open-source project to connect users to their audience with a single link
-showcasing the content they create and their projects in one place.</p>
+        <p><strong>Node.js, TypeScript, Git and Github</strong> - Date-fns is a lightweight JavaScript library that provides a comprehensive set of functions for manipulating and formatting dates in a functional programming style. Introduced formatRFC822 standard which specifies a syntax for text messages that are sent among computer users, within the framework of "electronic mail.</p>
     </td>
   </tr>
 </table>
