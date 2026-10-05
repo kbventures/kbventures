@@ -1,19 +1,5 @@
 <img src="https://i.postimg.cc/gcXXzCt2/new-banner.png" style="object-fit: contain;" width="100%">
 
-</br>
-<div align="center" style="padding-top:64px">
-  <p align="center">
-    <a target="_blank" href="https://kenbeaudin.netlify.app"><strong>Portfolio Website</strong></a>
-    ·
-    <a target="_blank" href="https://www.linkedin.com/in/ken-beaudin-9a4061174/"><strong>Linkedin</strong></a>
-    ·
-    <a target="_blank" href="https://twitter.com/kb9700"><strong>Twitter</strong></a>
-    ·
-    <a target="_blank" href="https://drive.google.com/file/d/1Y8TSdxUyA6JaKvpXLi_F2vL1p8J9sVn0/view"><strong>Resume</strong></a>
-  </p>
-</div>
-</br>
-
 <!-- FREELANCE -->
 <h1 style="padding-top:64px">Hi! I'm Ken Beaudin.</h1>
  
