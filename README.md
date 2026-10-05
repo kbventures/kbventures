@@ -212,19 +212,6 @@ showcasing the content they create and their projects in one place.</p>
 </section>
 
 <br/>
-<h1 align="center" style="padding-top:64px">Connect</h1>
-
-<div align="center" style="padding-top:64px">
-  <p align="center">
-    <a href="https://kenbeaudin.netlify.app"><strong>Portfolio Website</strong></a>
-    ·
-    <a href="https://www.linkedin.com/in/ken-beaudin-9a4061174/"><strong>Linkedin</strong></a>
-    ·
-    <a href="https://twitter.com/kb9700"><strong>Twitter</strong></a>
-    ·
-    <a href="https://drive.google.com/file/d/1Y8TSdxUyA6JaKvpXLi_F2vL1p8J9sVn0/view"><strong>Resume</strong></a>
-  </p>
-</div>
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
