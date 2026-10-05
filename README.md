@@ -1,6 +1,6 @@
 <!-- <img src="https://i.postimg.cc/gcXXzCt2/new-banner.png" style="object-fit: contain;" width="100%"> -->
 
-![Ken Beaudin — GitHub banner](./images/Friendly%20Coder%20at%20Laptop.png)
+![Ken Beaudin — GitHub banner](./images/Building%20business%20growth%20with%20smart%20technology.png)
 
 <!-- FREELANCE -->
 <h1 style="padding-top:64px">Hi! I'm Ken B.</h1>
