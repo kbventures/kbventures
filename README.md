@@ -1,4 +1,6 @@
-<img src="https://i.postimg.cc/gcXXzCt2/new-banner.png" style="object-fit: contain;" width="100%">
+<!-- <img src="https://i.postimg.cc/gcXXzCt2/new-banner.png" style="object-fit: contain;" width="100%"> -->
+
+![Ken Beaudin — GitHub banner](./banner.png)
 
 <!-- FREELANCE -->
 <h1 style="padding-top:64px">Hi! I'm Ken B.</h1>
