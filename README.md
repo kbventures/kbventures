@@ -202,16 +202,6 @@ showcasing the content they create and their projects in one place.</p>
     <img src="https://img.shields.io/static/v1?label=|&message=MOCHA&color=cbb148&style=plastic&logo=mocha"/>
 </p>
 
----
-<br />
-<section align="center" style="padding-top:64px">
-    <h1>Codewars</h1>
-    <div>
-        <img width="400px" src="https://www.codewars.com/users/kb9700/badges/large" alt="Ken Beaudin's Codewars stats">
-    </div>
-</section>
-
-<br/>
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
