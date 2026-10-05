@@ -5,6 +5,10 @@
  
 A full stack developer with a background in sales & business consulting with a passion for creating web applications. I am a creative problem solver with excellent team building skills!
 
+<a href="https://www.upwork.com/freelancers/~011d92d9f1fdc7ea1d">
+  <img src="https://img.shields.io/badge/Hire_me_on-Upwork-6FDA44?logo=upwork&amp;logoColor=white" alt="Hire me on Upwork" />
+</a>
+
 <br/>
 
 <h1 align="center" style="padding-top:64px">Freelance Work</h1>
@@ -201,7 +205,6 @@ showcasing the content they create and their projects in one place.</p>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MOCHA&color=cbb148&style=plastic&logo=mocha"/>
 </p>
-
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
