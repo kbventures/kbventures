@@ -64,39 +64,6 @@ A full stack developer with a background in sales & business consulting with a p
 </table>
 
 <!-- OPEN SOURCE CONTRIBUTION -->
-<!-- CCXT -->
-
-<!-- <h1 align="center" style="padding-top:64px">Open Source Contribution</h1> -->
-<table bordercolor="#66b2b2">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">CCXT</h3>
-        <br />
-        <a target="_blank" href="https://github.com/ccxt/ccxt">
-        <p align="center">
-            <img align="center" src="images/ccxt_logo.jpeg" width="25%" alt="CCXT Repository"/>
-        </p>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/ccxt/ccxt" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-<!--   <a href="https://github.com/ccxt/ccxt" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
-  </a> -->
-    <a href="https://github.com/ccxt/ccxt/pulls/kbventures" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=PULL REQUESTS&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a> 
-    <a href="https://github.com/ccxt/ccxt/issues/created_by/kbventures" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=ISSUES&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a> 
-      </p>
-        <p><strong>TypeScript, Node.js, Docker, Git, Github & Third Party API's</strong> - The CCXT library is used to connect and trade with cryptocurrency exchanges and payment processing services worldwide. It provides quick access to market data for storage, analysis, visualization, indicator development, algorithmic trading, strategy backtesting, bot programming, and related software engineering.</p>
-    </td>
-  </tr>
-</table>
 
 <h1 align="center" style="padding-top:64px">Open Source Contribution</h1>
 <table bordercolor="#66b2b2">
