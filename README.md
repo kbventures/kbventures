@@ -1,13 +1,9 @@
 <img src="https://i.postimg.cc/gcXXzCt2/new-banner.png" style="object-fit: contain;" width="100%">
 
 <!-- FREELANCE -->
-<h1 style="padding-top:64px">Hi! I'm Ken Beaudin.</h1>
+<h1 style="padding-top:64px">Hi! I'm Ken B.</h1>
  
-A full stack developer with a background in sales & business consulting with a passion for creating web applications. I am a creative problem solver with excellent team skills due to my background and I am looking for a position on your team!
-
-When I am not working on a passion project, you will find me at the gym or blogging about interanationalizing web applications, open source projects, learning languages(I speak English, French and now learning Spanish), and traveling (16 countries in the last 5 years)!
-
-See [my website](https://kenbeaudin.netlify.app) for more information!
+A full stack developer with a background in sales & business consulting with a passion for creating web applications. I am a creative problem solver with excellent team building skills!
 
 <br/>
 
