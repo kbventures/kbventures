@@ -25,6 +25,9 @@ A full stack developer with a background in sales & business consulting with a p
         </p>
         <br />
         <p align="center">
+  <a href="https://github.com/kbventures/outreach-demo" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
   <a href="https://demo.outreach.osequencing.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LIVE%20DEMO&color=cdf998&style=plastic&logo=&logo-color=white"/>
   </a>
