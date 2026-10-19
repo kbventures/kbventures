@@ -45,6 +45,7 @@ A full stack developer with a background in sales & business consulting with a p
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Toronto JS Community Hub</h3>
+      <p align="center"><em>Lead Developer → Project Manager</em></p>
         <br />
         <a target="_blank" href="https://github.com/torontojs/communityhub">
         <p align="center">
@@ -60,7 +61,16 @@ A full stack developer with a background in sales & business consulting with a p
     <img src="https://img.shields.io/static/v1?label=|&message=PULL REQUESTS&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p><strong>TypeScript, React, Vite, Hono, Zod OpenAPI, Cloudflare Workers, Cloudflare D1, Resend, Vitest, Playwright, Hurl, Git & Github</strong> - Lead Developer of the Toronto JS volunteer management system: one source of truth for onboarding volunteers and tracking their history in the community. Over 800 commits, built with community members looking for hands-on project experience.</p>
+        <p><strong>TypeScript, React, Vite, Hono, Zod OpenAPI, Cloudflare Workers, Cloudflare D1, Resend, Vitest, Playwright, Hurl, Git & Github</strong> - Open-source, full-stack cloud platform Toronto JS uses to track volunteer history and engagement. Started as Lead Developer, then promoted to Project Manager.</p>
+        <ul>
+          <li>Leads a Community Hub leadership team of 4</li>
+          <li>Coordinates a design team of 4 and a dev team of 5</li>
+          <li>Runs leadership meetings with the project owner, lead developer and design lead</li>
+          <li>Still hands-on: built authentication, authorization, and user/team management pages, front end and back end</li>
+          <li>Writes tests and reviews code from other contributors</li>
+          <li>800+ commits</li>
+        </ul>
+        <blockquote>"This progression from individual contributor to project lead reflects both his technical depth and his growth into a leadership role trusted to guide a larger team." — Toronto JS</blockquote>
     </td>
   </tr>
 </table>
