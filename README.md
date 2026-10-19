@@ -19,18 +19,16 @@ A full stack developer with a background in sales & business consulting with a p
    <td width="50%" valign="top">
       <h3 align="center">Robert Tercek</h3>
         <br />
-        <a target="_blank" href="https://roberttercek.com/">
         <p align="center">
-            <img align="center" src="images/robert-tercek.PNG" width="75%" alt="Robert Tercek"/>
+          <a target="_blank" href="https://roberttercek.com/"><img src="images/robert-tercek.PNG" width="75%" alt="Robert Tercek"/></a>
         </p>
-        </a>
         <br />
         <p align="center">    
   <a href="https://github.com/kbventures/Robert-Tercek" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://roberttercek.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEB%20APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML, CSS, Next.js, Node.js, NPM, Git, Github & Strapi</strong> - Robert Tercek is one of the world’s most prolific creators of interactive content. He has created breakthrough entertainment experiences on every digital platform. I collaborated with a team of developers to convert the website's API from a Wordpress GraphQL setup to a Strapi backend.</p>
@@ -47,18 +45,16 @@ A full stack developer with a background in sales & business consulting with a p
       <h3 align="center">Toronto JS Community Hub</h3>
       <p align="center"><em>Lead Developer → Project Manager</em></p>
         <br />
-        <a target="_blank" href="https://github.com/torontojs/communityhub">
         <p align="center">
-            <img align="center" src="images/torontojs.png" width="75%" alt="Toronto JS"/>
+          <a target="_blank" href="https://github.com/torontojs/communityhub"><img src="images/torontojs.png" width="75%" alt="Toronto JS"/></a>
         </p>
-        </a>
         <br />
         <p align="center">
   <a href="https://github.com/torontojs/communityhub" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://github.com/torontojs/communityhub/pulls?q=is%3Apr+author%3Akbventures" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=PULL REQUESTS&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PULL%20REQUESTS&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
         <p><strong>TypeScript, React, Vite, Hono, Zod OpenAPI, Cloudflare Workers, Cloudflare D1, Resend, Vitest, Playwright, Hurl, Git & Github</strong> - Open-source, full-stack cloud platform Toronto JS uses to track volunteer history and engagement. Started as Lead Developer, then promoted to Project Manager.</p>
@@ -82,11 +78,9 @@ A full stack developer with a background in sales & business consulting with a p
     <td width="50%" valign="top">
       <h3 align="center">Date-fns</h3>
         <br />
-        <a target="_blank" href="https://github.com/date-fns/date-fns">
         <p align="center">
-            <img align="center" src="images/date-fns.jpeg" width="75%" alt="eCommerce App"/>
+          <a target="_blank" href="https://github.com/date-fns/date-fns"><img src="images/date-fns.jpeg" width="75%" alt="eCommerce App"/></a>
         </p>
-        </a>
         <br />
         <p align="center">
           
@@ -94,7 +88,7 @@ A full stack developer with a background in sales & business consulting with a p
     <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
     <a href="https://github.com/date-fns/date-fns/pulls/kbventures" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=PULL REQUESTS&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PULL%20REQUESTS&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
 <!--     <a href="https://github.com/date-fns/date-fns/pulls/kbventures" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=ISSUES&color=23555f&style=plastic&logo=github&logo-color=white"/>
@@ -113,11 +107,9 @@ A full stack developer with a background in sales & business consulting with a p
     <td width="50%" valign="top">
       <h3 align="center">Biodrop</h3>
         <br />
-        <a target="_blank" href="https://www.biodrop.io/">
         <p align="center">
-            <img align="center" src="images/biodrop.png" width="75%" alt="eCommerce App"/>
+          <a target="_blank" href="https://www.biodrop.io/"><img src="images/biodrop.png" width="75%" alt="eCommerce App"/></a>
         </p>
-        </a>
         <br />
         <p align="center">
           
@@ -125,10 +117,10 @@ A full stack developer with a background in sales & business consulting with a p
     <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
 <!--   <a href="https://www.biodrop.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEB%20APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
   </a> -->
     <a href="https://github.com/EddieHubCommunity/BioDrop/pulls/kbventures" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=PULL REQUESTS&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PULL%20REQUESTS&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
     <a href="https://github.com/EddieHubCommunity/BioDrop/issues/created_by/kbventures" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=ISSUES&color=23555f&style=plastic&logo=github&logo-color=white"/>
@@ -148,11 +140,9 @@ showcasing the content they create and their projects in one place.</p>
    <td width="65%" valign="top">
       <h3 align="center">Comprehensive Next.js Guide for Internationalizing and Localizing Your Web Application</h3>
         <br />
-        <a target="_blank" href="https://kenbeaudin.hashnode.dev/">
         <p align="center">
-            <img align="center" src="https://res.cloudinary.com/dwxtx5mcj/image/upload/v1703351855/int-loc-blog_rhox27.jpg" width="55%" alt="eCommerce App"/>
+          <a target="_blank" href="https://kenbeaudin.hashnode.dev/"><img src="https://res.cloudinary.com/dwxtx5mcj/image/upload/v1703351855/int-loc-blog_rhox27.jpg" width="55%" alt="eCommerce App"/></a>
         </p>
-        </a>
         <br />
         <p align="center">    
   <a href="https://github.com/kbventures/next-i18next-blog" target="_blank">
@@ -173,18 +163,16 @@ showcasing the content they create and their projects in one place.</p>
     <td width="50%" valign="top">
       <h3 align="center">mTrade</h3>
         <br />
-        <a target="_blank" href="https://next-mtrade-lime.vercel.app/">
-            <p align="center">
-            <img src="images/logo_img.png" width="75%" alt="mTrade Web Application"/>
-            </p>
-        </a>
+        <p align="center">
+          <a target="_blank" href="https://next-mtrade-lime.vercel.app/"><img src="images/logo_img.png" width="75%" alt="mTrade Web Application"/></a>
+        </p>
         <br />
         <p align="center">    
   <a href="https://github.com/kbventures/next-mtrade" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://next-mtrade.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEB%20APPLICATION&color=cdf998&style=plastic&logo=&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML, CSS, SASS, Next.js, React, Node.js, PostgreSQL, Next-i18next, Next-auth, Git, Github, Playwright, Vercel, Superbase & Prisma</strong> - Internationalized full-stack, responsive web application that enables users to consolidate, analyze, and visualize digital asset data from private APIs across multiple platforms </p>
@@ -200,18 +188,16 @@ showcasing the content they create and their projects in one place.</p>
    <td width="65%" valign="top">
       <h3 align="center">eRenaissance</h3>
         <br />
-        <a target="_blank" href="https://erenaissance-frontend.vercel.app/">
         <p align="center">
-            <img align="center" src="images/e-renaissance-logo.png" width="55%" alt="eCommerce App"/>
+          <a target="_blank" href="https://erenaissance-frontend.vercel.app/"><img src="images/e-renaissance-logo.png" width="55%" alt="eCommerce App"/></a>
         </p>
-        </a>
         <br />
         <p align="center">    
   <a href="https://github.com/kbventures/ecommerce" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://erenaissance-frontend.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEB APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEB%20APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML, CSS, CSS Modules, React, Webpack, Node.js, Webpack, MongoDB, TypeScript, Vercel & Git</strong> - eRenaissance is a custom-built state-of-the-art e-commerce website with Stripe integration built by over four developers!</p>
