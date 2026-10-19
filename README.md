@@ -39,7 +39,33 @@ A full stack developer with a background in sales & business consulting with a p
 </table>
 
 <!-- OPEN SOURCE CONTRIBUTION -->
-<!-- BIODROP -->
+<!-- TORONTO JS COMMUNITY HUB -->
+<h1 align="center" style="padding-top:64px">Open Source Contribution</h1>
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Toronto JS Community Hub</h3>
+        <br />
+        <a target="_blank" href="https://github.com/torontojs/communityhub">
+        <p align="center">
+            <img align="center" src="images/torontojs.png" width="75%" alt="Toronto JS"/>
+        </p>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/torontojs/communityhub" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://github.com/torontojs/communityhub/pulls?q=is%3Apr+author%3Akbventures" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=PULL REQUESTS&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>TypeScript, React, Vite, Hono, Zod OpenAPI, Cloudflare Workers, Cloudflare D1, Resend, Vitest, Playwright, Hurl, Git & Github</strong> - Lead Developer of the Toronto JS volunteer management system: one source of truth for onboarding volunteers and tracking their history in the community. Over 800 commits, built with community members looking for hands-on project experience.</p>
+    </td>
+  </tr>
+</table>
+
+<!-- DATE-FNS -->
 <h1 align="center" style="padding-top:64px">Open Source Contribution</h1>
 <table bordercolor="#66b2b2">
   <tr>
