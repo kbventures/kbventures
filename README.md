@@ -13,29 +13,6 @@ A full stack developer with a background in sales & business consulting with a p
 
 <br/>
 
-<h1 align="center" style="padding-top:64px">Freelance Work</h1>
-<table bordercolor="#66b2b2">
-  <tr>
-   <td width="50%" valign="top">
-      <h3 align="center">Robert Tercek</h3>
-        <br />
-        <p align="center">
-          <a target="_blank" href="https://roberttercek.com/"><img src="images/robert-tercek.PNG" width="75%" alt="Robert Tercek"/></a>
-        </p>
-        <br />
-        <p align="center">    
-  <a href="https://github.com/kbventures/Robert-Tercek" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://roberttercek.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEB%20APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML, CSS, Next.js, Node.js, NPM, Git, Github & Strapi</strong> - Robert Tercek is one of the world’s most prolific creators of interactive content. He has created breakthrough entertainment experiences on every digital platform. I collaborated with a team of developers to convert the website's API from a Wordpress GraphQL setup to a Strapi backend.</p>
-    </td>
-  </tr>
-</table>
-
 <!-- OPEN SOURCE CONTRIBUTION -->
 <!-- TORONTO JS COMMUNITY HUB -->
 <h1 align="center" style="padding-top:64px">Open Source Contribution</h1>
@@ -67,6 +44,30 @@ A full stack developer with a background in sales & business consulting with a p
           <li>800+ commits</li>
         </ul>
         <blockquote>"This progression from individual contributor to project lead reflects both his technical depth and his growth into a leadership role trusted to guide a larger team." — Toronto JS</blockquote>
+    </td>
+  </tr>
+</table>
+
+<!-- FREELANCE -->
+<h1 align="center" style="padding-top:64px">Freelance Work</h1>
+<table bordercolor="#66b2b2">
+  <tr>
+   <td width="50%" valign="top">
+      <h3 align="center">Robert Tercek</h3>
+        <br />
+        <p align="center">
+          <a target="_blank" href="https://roberttercek.com/"><img src="images/robert-tercek.PNG" width="75%" alt="Robert Tercek"/></a>
+        </p>
+        <br />
+        <p align="center">    
+  <a href="https://github.com/kbventures/Robert-Tercek" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://roberttercek.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEB%20APPLICATION&color=cdf998&style=plastic&logo=mern&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, Next.js, Node.js, NPM, Git, Github & Strapi</strong> - Robert Tercek is one of the world’s most prolific creators of interactive content. He has created breakthrough entertainment experiences on every digital platform. I collaborated with a team of developers to convert the website's API from a Wordpress GraphQL setup to a Strapi backend.</p>
     </td>
   </tr>
 </table>
