@@ -162,6 +162,22 @@ showcasing the content they create and their projects in one place.</p>
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Outreach</h3>
+        <br />
+        <p align="center">
+          <a target="_blank" href="https://demo.outreach.osequencing.com"><img src="images/outreach.png" width="75%" alt="Outreach Web Application"/></a>
+        </p>
+        <br />
+        <p align="center">
+  <a href="https://demo.outreach.osequencing.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LIVE%20DEMO&color=cdf998&style=plastic&logo=&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>TypeScript, Next.js, React, Tailwind, PostgreSQL, Neon, Clerk, OpenAI, Stripe, Upstash Redis, Zod, Sentry, Vercel, Playwright & Hurl</strong> - Manual-first LinkedIn outreach workspace: capture prospects, run campaigns, work a daily follow-up queue, log touches, and write AI-assisted LinkedIn messages. Full SaaS with billing, rate limiting, and a Chrome extension for contact capture.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">mTrade</h3>
         <br />
         <p align="center">
